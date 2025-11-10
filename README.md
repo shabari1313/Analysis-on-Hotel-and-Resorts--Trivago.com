@@ -87,5 +87,3 @@ The notebook demonstrates end-to-end **data science workflow**, including prepro
 
 ---
 
-Would you like me to include a **requirements.txt** section listing the exact libraries used (so others can easily run your notebook)?
-If you upload or show a few lines of your code imports, I can generate it automatically.
