@@ -1,0 +1,1099 @@
+,Hotel_Name,Rating,Price,City,Deal(week),Feedback,State,Other_site_prices,Seasons
+0,"The Oberoi, Bengaluru",9.5,28025.0,Bengaluru,21989.5,Excellent,Karnataka,4371.0,Autum
+1,The Zuri Whitefield Bengaluru,8.7,14277.0,Bengaluru,71384.0,Excellent,Karnataka,4371.0,Autum
+2,The Leela Palace Bengaluru,9.3,25909.0,Bengaluru,129545.0,Excellent,Karnataka,40161.0,Autum
+3,Radha Hometel,8.0,6856.0,Bengaluru,34281.0,Very good,Karnataka,4371.0,Autum
+4,Santhrupthi Homestay 4bhk,9.6,3253.0,Madikeri,16263.0,Excellent,Karnataka,4371.0,Autum
+5,Udupi Residency,7.5,4726.0,Udupi,23628.0,Good,Karnataka,4371.0,Autum
+6,Ss Luxury Comforts. Two Bhk Ac Luxurious Apartment,9.7,5171.0,Chikkamagaluru,25854.0,Excellent,Karnataka,4371.0,Autum
+7,Radisson Bengaluru City Center,8.9,14868.0,Bengaluru,74340.0,Excellent,Karnataka,4371.0,Autum
+8,"Golden Residency, Gandhi Nagar Bangalore",8.8,3334.0,Bengaluru,16670.0,Excellent,Karnataka,4371.0,Autum
+9,Hyatt Centric MG Road Bangalore,8.5,14556.0,Bengaluru,72782.0,Excellent,Karnataka,4371.0,Autum
+10,Radisson Blu Plaza Hotel Mysore,9.0,12426.0,Mysore,21989.5,Excellent,Karnataka,4371.0,Autum
+11,Howard Johnson by Wyndham Bengaluru Hebbal,8.1,6645.0,Bengaluru,33223.0,Very good,Karnataka,4371.0,Autum
+12,Radisson Blu Atria Bengaluru,8.6,10002.0,Bengaluru,50010.0,Excellent,Karnataka,4371.0,Autum
+13,Hotel Champion Inn,8.4,1516.0,Bengaluru,7580.0,Excellent,Karnataka,4371.0,Autum
+14,"Country Inn & Suites By Radisson, Bengaluru Hebbal Road",8.0,9027.0,Bengaluru,45135.0,Very good,Karnataka,4371.0,Autum
+15,"VILASINI INN BTM Layout, Bengaluru",8.4,1036.0,Bengaluru,5179.0,Excellent,Karnataka,4371.0,Autum
+16,St. Mark's Hotel,9.1,12508.0,Bengaluru,62540.0,Excellent,Karnataka,4371.0,Autum
+17,Hotel Rainbow near Victoria Hospital City Market,8.4,1036.0,Bengaluru,5179.0,Excellent,Karnataka,4371.0,Autum
+18,FabHotel A White Pearl Suites - Near Bangalore Airport,8.2,855.0,Devanahalli,4273.0,Excellent,Karnataka,4371.0,Autum
+19,AARYA MANSION V One Hotel,8.1,4032.0,Hassan,20160.0,Very good,Karnataka,4032.0,Autum
+20,FabHotel Crown Suites,8.0,1931.0,Bengaluru,9653.0,Very good,Karnataka,1846.0,Autum
+21,FabExpress Oriental Suites BTM Layout,8.0,1664.0,Bengaluru,8318.0,Very good,Karnataka,1664.0,Autum
+22,FabHotel Hi Land Suites MG Road,8.4,1725.0,Bengaluru,8623.0,Very good,Karnataka,1725.0,Autum
+23,Hotel Silicrest,8.4,3150.0,Bengaluru,15750.0,Excellent,Karnataka,3150.0,Autum
+24,FabHotel V Suites Bangalore East Railway Station,9.1,2543.0,Bengaluru,12714.0,Excellent,Karnataka,2813.0,Autum
+25,Easternwoods Hotels,8.5,2194.0,Bengaluru,10971.0,Excellent,Karnataka,1964.0,Autum
+26,FabHotel Greenwood Xpress,8.8,1834.0,Bengaluru,9168.0,Excellent,Karnataka,1834.0,Autum
+27,Super Hotel O Bellandur Bangalore,7.6,1541.0,Bengaluru,7703.0,Good,Karnataka,1440.0,Autum
+28,Treebo Trend Elite 7,8.9,2168.0,Bengaluru,10838.0,Excellent,Karnataka,2008.0,Autum
+29,Royal Orchid Resort & Convention Centre,8.2,7235.0,Bengaluru,36175.0,Very good,Karnataka,6929.0,Autum
+30,FabHotel Oakwey Inn Indiranagar,8.4,2172.0,Bengaluru,10860.0,Very good,Karnataka,2172.0,Autum
+31,Hotel Compact Green View Near Nexus Mall Koramangala,8.6,1953.0,Bengaluru,9766.0,Excellent,Karnataka,1953.0,Autum
+32,HOTEL SHRINGAR PALACE,8.1,2321.0,Hubli,11605.0,Very good,Karnataka,2772.0,Autum
+33,Regenta Resort Belagavi,9.0,3873.0,Belgaum,19367.0,Excellent,Karnataka,3669.0,Autum
+34,Hyatt Centric Hebbal Bengaluru,8.9,15250.0,Bengaluru,76252.0,Excellent,Karnataka,14945.0,Autum
+35,FabHotel The Royal Suites,7.7,2178.0,Bengaluru,10889.0,Good,Karnataka,2275.0,Autum
+36,Treebo Trend Akshaya Residency,9.1,1886.0,Bengaluru,9430.0,Excellent,Karnataka,1886.0,Autum
+37,The Byke Signature,8.4,3267.0,Bengaluru,16335.0,Excellent,Karnataka,2796.0,Autum
+38,Davanam Sarovar Portico Suites,8.5,8476.0,Bengaluru,42381.0,Excellent,Karnataka,7368.0,Autum
+39,OYO Sunil Residency Rajajinagar,8.4,1408.0,Bengaluru,7039.0,Excellent,Karnataka,1329.0,Autum
+40,Hotel Chetan International,8.4,1568.0,Bengaluru,7840.0,Excellent,Karnataka,1568.0,Autum
+41,"Malligi,Hampi",8.5,4860.0,Hosapete,24302.0,Excellent,Karnataka,4101.0,Autum
+42,Country Inns & Suites By Radisson Manipal,9.0,8062.0,Udupi,40308.0,Excellent,Karnataka,8441.0,Autum
+43,KSTDC Hotel Mayura Adilshahi Bijapur,8.2,2681.0,Bijapur,13406.0,Very good,Karnataka,4371.0,Autum
+44,Uptown Suites,8.5,1895.0,Bengaluru,9475.0,Excellent,Karnataka,1809.0,Autum
+45,Global Stay Near Kengeri Bus Terminal Metro Station,9.2,1876.0,Bengaluru,9381.0,Excellent,Karnataka,1876.0,Autum
+46,Treebo Trend Green Land Kushalnagar,8.7,1668.0,Kushalnagar,8340.0,Very Good,Karnataka,4371.0,Autum
+47,FabHotel Astra Suites HSR Layout,7.8,2218.0,Bengaluru,11091.0,Good,Karnataka,2218.0,Autum
+48,"Royal Orchid Central, Shimoga",8.7,3549.0,Shimoga,17746.0,Excellent,Karnataka,3550.0,Autum
+49,"Vijayshree Resort, Hampi",8.1,9947.0,Hosapete,49737.0,Very good,Karnataka,8043.0,Autum
+50,Fairfield by Marriott Belagavi,8.9,4760.0,Belgaum,23800.0,Excellent,Karnataka,4760.0,Autum
+51,Olive Kalyan Nagar - By Embassy Group,8.7,1641.0,Bengaluru,8204.0,Excellent,Karnataka,1641.0,Autum
+52,"Lemon Tree Suites, Whitefield, Bengaluru",8.6,9137.0,Bengaluru,45684.0,Excellent,Karnataka,4371.0,Autum
+53,FabExpress Kings Suites,8.4,1735.0,Bengaluru,8674.0,Excellent,Karnataka,1735.0,Autum
+54,Treebo Trend Zion,7.8,1524.0,Bengaluru,7619.0,Good,Karnataka,1524.0,Autum
+55,Treebo Trend Sai Suites Inn Nagavara,8.5,1857.0,Bengaluru,9284.0,Excellent,Karnataka,1857.0,Autum
+56,Treebo Trend The Meridian,8.4,2340.0,Chikkamagaluru,11701.0,Very good,Karnataka,2385.0,Autum
+57,New Rainbow Business Hotel,8.4,2240.0,Bengaluru,11200.0,Excellent,Karnataka,2846.0,Autum
+58,The Green Hotel,7.8,3987.0,Mysore,19936.0,Good,Karnataka,3190.0,Autum
+59,Hotel Empire International - Koramangala,8.4,2925.0,Bengaluru,14623.0,Excellent,Karnataka,2660.0,Autum
+60,Treebo Elmas Grand,8.4,1650.0,Bengaluru,8248.0,Excellent,Karnataka,1650.0,Autum
+61,"goSTOPS Bengaluru, Gandhi Nagar Majestic",8.7,2287.0,Bengaluru,11435.0,Excellent,Karnataka,1603.0,Autum
+62,Grand Mercure Mysore,8.8,13476.0,Mysore,67378.0,Excellent,Karnataka,11769.0,Autum
+63,Treebo Trend RR Residency - Sanjay Nagar,7.8,1647.0,Bengaluru,8237.0,Good,Karnataka,1543.0,Autum
+64,Suvarna Grande Homes,9.1,2464.0,Mangalore,12320.0,Excellent,Karnataka,2464.0,Autum
+65,FabHotel Crown Heights,8.6,2407.0,Bengaluru,12033.0,Excellent,Karnataka,2407.0,Autum
+66,Vyshak Inn,8.1,2239.0,Mysore,11194.0,Excellent,Karnataka,4371.0,Autum
+67,Treebo Trend Trinitywood,8.4,1786.0,Bengaluru,8930.0,Excellent,Karnataka,1786.0,Autum
+68,Clyford Suites,8.4,1904.0,Bengaluru,9520.0,Excellent,Karnataka,1904.0,Autum
+69,Hotel White Stone Premier Inn,8.2,1455.0,Mangalore,7274.0,Excellent,Karnataka,1116.0,Autum
+70,Capital Residency,8.4,1882.0,Bengaluru,9408.0,Excellent,Karnataka,1284.0,Autum
+71,Octave Himalaya Monarch,8.3,2020.0,Bengaluru,10100.0,Very good,Karnataka,2020.0,Autum
+72,S R Continental,8.9,3455.0,Kalburgi,17275.0,Excellent,Karnataka,3230.0,Autum
+73,Hotel Plaza Heights,8.4,2298.0,Mangalore,11491.0,Very good,Karnataka,1621.0,Autum
+74,Hotel Shoolin Grand,8.8,3269.0,Mangalore,16346.0,Excellent,Karnataka,3269.0,Autum
+75,OYO 642 The Atrium Boutique Hotel,7.8,2722.0,Mysore,13612.0,Good,Karnataka,4010.0,Autum
+76,"Fortune Select JP Cosmos, Bengaluru - Member ITC's hotel group",8.3,8692.0,Bengaluru,43460.0,Very good,Karnataka,6821.0,Autum
+77,Hyatt Place Hampi,8.4,8230.0,Toranagallu,41149.0,Very good,Karnataka,7660.0,Autum
+78,St. Mark's Hotel,9.1,12508.0,Bengaluru,62540.0,Excellent,Karnataka,12508.0,Autum
+79,Tranquil Manipal,9.1,3868.0,Manipal,19342.0,Excellent,Karnataka,3300.0,Autum
+80,FabHotel Phoenix Resorts,8.4,2638.0,Bengaluru,13192.0,Excellent,Karnataka,4371.0,Autum
+81,The Park Bangalore,8.2,11993.0,Bengaluru,59967.0,Very good,Karnataka,11390.0,Autum
+82,Vibes and Tides Beach Resort by Enlightened Vagabond,8.0,2277.0,Gokarna,11386.0,Very good,Karnataka,4371.0,Autum
+83,GN Collection O Near Rajajinagar Industrial Estate,8.4,1420.0,Bengaluru,7098.0,Excellent,Karnataka,1420.0,Autum
+84,Vivanta Bengaluru Residency Road,8.8,12675.0,Bengaluru,21989.5,Excellent,Karnataka,13933.0,Autum
+85,Super Townhouse ITPL Near Prestige Shanti Niketan,7.8,1910.0,Bengaluru,9548.0,Good,Karnataka,4371.0,Autum
+86,Treebo Trend Silver Key- Marathahalli,7.6,1789.0,Bengaluru,8943.0,Good,Karnataka,1887.0,Autum
+87,Super Capital O Champion Lotus Near Mantri Square Mall,8.4,1525.0,Bengaluru,7626.0,Excellent,Karnataka,1525.0,Autum
+88,Vividus,7.7,7792.0,Bengaluru,38962.0,Good,Karnataka,6650.0,Autum
+89,OYO 14272 Manyata Palace,8.3,1686.0,Bengaluru,8430.0,Very good,Karnataka,4371.0,Autum
+90,La Sara Grand,8.3,6472.0,Bengaluru,32359.0,Very good,Karnataka,6189.0,Autum
+91,The Quorum,7.7,5040.0,Mysore,25200.0,Good,Karnataka,5040.0,Autum
+92,Anand Regency Majestic,7.5,1694.0,Bengaluru,8472.0,Good,Karnataka,4371.0,Autum
+93,OYO 18544 Amm Residency,8.4,1513.0,Bengaluru,7565.0,Excellent,Karnataka,1313.0,Autum
+94,Coorg Coffee Flowers Resort,8.3,3939.0,Kodagu,19694.0,Excellent,Karnataka,4371.0,Autum
+95,Alwesal International,8.7,3210.0,Madikeri,16052.0,Very Good,Karnataka,2669.0,Autum
+96,OYO Corner Golf View Near Embassy Golf Link Business Park,7.5,1512.0,Bengaluru,7560.0,Good,Karnataka,1454.0,Autum
+97,FabHotel Emara Boutique - Near Koramangala,9.4,1928.0,Bengaluru,9641.0,Excellent,Karnataka,1928.0,Autum
+98,Haripriya Residency,8.0,1730.0,Gokarna,8650.0,Very good,Karnataka,2486.0,Autum
+99,Arra Suites kempegowda Airport Hotel,8.2,2419.0,Devanahalli,12096.0,Very good,Karnataka,1756.0,Autum
+100,Hotel Presidency-Electronic City Phase II,8.4,2314.0,Bengaluru,21989.5,Excellent,Karnataka,3571.0,Autum
+101,Itsy By Treebo | Greenwood Inn And Suites,8.0,2250.0,Mysore,11250.0,Very good,Karnataka,4371.0,Autum
+102,Ashraya International Hotel,7.9,2682.0,Bengaluru,21989.5,Good,Karnataka,3701.0,Autum
+103,THE RED VELVET OPPOSITE NOVEL OFFICE MARATHAHALLI BRIDGE.,8.3,1675.0,Bengaluru,8375.0,Very good,Karnataka,1611.0,Autum
+104,Advaitha Serenity Resorts,8.4,3579.0,Mysore,17895.0,Very good,Karnataka,4704.0,Autum
+105,Panchvati Comforts,7.8,3407.0,Bengaluru,17035.0,Good,Karnataka,7314.0,Autum
+106,"Lazo Areca Resort , Coorg",8.4,3114.0,Kodagu,15568.0,Very good,Karnataka,2703.0,Autum
+107,Southend By Tgi,8.4,4071.0,Bengaluru,20353.0,Very good,Karnataka,4077.0,Autum
+108,Capital O SLN Residency,8.4,1583.0,Bengaluru,7917.0,Excellent,Karnataka,1583.0,Autum
+109,coconut tree guest house,8.3,1243.0,Hampi,6216.0,Very good,Karnataka,4371.0,Autum
+110,Itsy By Treebo - HSR Comfort,8.4,1621.0,Bengaluru,8106.0,Excellent,Karnataka,1621.0,Autum
+111,Oakwood Residence Whitefield Bangalore,9.1,11446.0,Bengaluru,57230.0,Excellent,Karnataka,11446.0,Autum
+112,Brunton Heights Executive Suites,8.4,5711.0,Bengaluru,28556.0,Very good,Karnataka,7154.0,Autum
+113,La Sara Comforts,8.1,2231.0,Bengaluru,21989.5,Very good,Karnataka,2856.0,Autum
+114,Abhimaan Residency,8.9,1015.0,Kalburgi,5077.0,Very Good,Karnataka,785.0,Autum
+115,Hotel Down Town,8.7,1307.0,Manipal,6536.0,Very Good,Karnataka,1456.0,Autum
+116,Hotel Landmark By Pai,8.6,2510.0,Belgaum,21989.5,Excellent,Karnataka,3136.0,Autum
+117,Hotel Amshi International,7.6,1736.0,Bengaluru,8680.0,Good,Karnataka,1736.0,Autum
+118,"Southern Star,Bangalore",8.6,10259.0,Bengaluru,51294.0,Excellent,Karnataka,10259.0,Autum
+119,Collection O Victorian Comforts,8.4,1936.0,Bengaluru,9678.0,Excellent,Karnataka,4371.0,Autum
+120,Casa Cottage,8.4,3047.0,Bengaluru,15237.0,Very good,Karnataka,4435.0,Autum
+121,KSTDC Hotel Mayura Kauvery KRS,7.7,3550.0,Mysore,17748.0,Good,Karnataka,3550.0,Autum
+122,Zip By Spree Hotels PurpleOrchid Whitefield,8.8,2558.0,Bengaluru,21989.5,Excellent,Karnataka,4031.0,Autum
+123,Regenta Inn 4th Block Koramangala Bangalore,8.2,3984.0,Bengaluru,19919.0,Very good,Karnataka,3769.0,Autum
+124,Subha Residency,8.4,1378.0,Bengaluru,6888.0,Excellent,Karnataka,1223.0,Autum
+125,Mayur Paradise,8.0,2202.0,Bengaluru,11009.0,Very good,Karnataka,1724.0,Autum
+126,Hotel Royal Residence HSR Layout,7.6,1679.0,Bengaluru,8394.0,Good,Karnataka,1679.0,Autum
+127,"Amanvana Spa Resort, Coorg",8.7,14325.0,Kushalnagar,71627.0,Excellent,Karnataka,12195.0,Autum
+128,Yuvraj Galaxy Inn,8.8,1808.0,Mysore,9041.0,Excellent,Karnataka,2917.0,Autum
+129,Treebo Trend 12 Degrees West Domlur,8.3,1989.0,Bengaluru,9944.0,Very good,Karnataka,1989.0,Autum
+130,Old Magazine House,8.3,10447.0,Dandeli,52233.0,Very good,Karnataka,11171.0,Autum
+131,Townhouse 361 Sarvar Hospitality Near Ascendas Park Square Mall,8.4,1533.0,Bengaluru,7663.0,Excellent,Karnataka,1533.0,Autum
+132,Itsy By Treebo - Classio Richmond,7.7,1865.0,Bengaluru,9323.0,Good,Karnataka,1865.0,Autum
+133,OYO 24259 Hotel Blue Inn,8.4,1564.0,Bengaluru,7820.0,Excellent,Karnataka,1564.0,Autum
+134,Ayra Boutique Hotel,8.8,3752.0,Bengaluru,18760.0,Excellent,Karnataka,3752.0,Autum
+135,The Grand Inn Mysore,7.6,1918.0,Mysore,9592.0,Good,Karnataka,3221.0,Autum
+136,Royal shades kodihali,7.5,1736.0,Bengaluru,8680.0,Good,Karnataka,1387.0,Autum
+137,Signature Inn,7.5,1965.0,Bengaluru,9826.0,Good,Karnataka,2130.0,Autum
+138,Vijaya Residency,8.7,1835.0,Manipal,9173.0,Very Good,Karnataka,1822.0,Autum
+139,The Hosteller Gokarna,8.8,3851.0,Gokarna,19254.0,Excellent,Karnataka,5634.0,Autum
+140,Hotel Rahul Palace Belgaum,8.5,2788.0,Belgaum,13942.0,Excellent,Karnataka,4371.0,Autum
+141,Sleek Townhouse Galexia Hotel and Resorts,7.7,1872.0,Bengaluru,9359.0,Good,Karnataka,1872.0,Autum
+142,The Garden Asia S And Resorts,7.7,3323.0,Bengaluru,16616.0,Good,Karnataka,5287.0,Autum
+143,The Elite Royale,8.4,2201.0,Bengaluru,11007.0,Excellent,Karnataka,4371.0,Autum
+144,Super Townhouse 273 Hosur Main Road Bommanahalli Near Gopalan Innovation Mall,9.2,2226.0,Bengaluru,11132.0,Excellent,Karnataka,2226.0,Autum
+145,Hotel Sharada International,8.2,3707.0,Udupi,18536.0,Excellent,Karnataka,4953.0,Autum
+147,Treebo Trend White Inn Koramangala,8.4,2165.0,Bengaluru,10826.0,Excellent,Karnataka,2322.0,Autum
+148,UPAR Hotels Indiranagar,8.2,4099.0,Bengaluru,20494.0,Very good,Karnataka,4435.0,Autum
+149,Gokarna Mid Beach Stay,8.2,4049.0,Gokarna,20244.0,Excellent,Karnataka,3153.0,Autum
+150,OYO Townhouse 093 Ramamurthy Nagar Near Baiyappanahalli Metro Station,8.4,1781.0,Bengaluru,8904.0,Excellent,Karnataka,1781.0,Autum
+151,Cofiya Hotel,8.1,2477.0,Kodagu,12384.0,Very good,Karnataka,1479.0,Autum
+152,Nexstay Rainbow Brigade Road,8.2,2240.0,Bengaluru,11200.0,Very good,Karnataka,4371.0,Autum
+153,The Hood Co-living Hostel,9.2,1353.0,Bengaluru,6767.0,Excellent,Karnataka,4371.0,Autum
+154,Grand Regency,9.2,2432.0,Bengaluru,12158.0,Excellent,Karnataka,4371.0,Autum
+155,Treebo Trend Nandi Comforts - Peenya,8.4,1962.0,Bengaluru,9811.0,Excellent,Karnataka,1640.0,Autum
+156,High end Withinn Hotel Near Hare Krishna Hill,8.7,2353.0,Nelamangala,11765.0,Excellent,Karnataka,2354.0,Autum
+157,Hotel Prestige,8.0,2060.0,Mangalore,10301.0,Very good,Karnataka,4371.0,Autum
+158,Grand Falcon,8.8,2240.0,Bengaluru,11200.0,Excellent,Karnataka,2240.0,Autum
+159,Hotel Coorg International,7.9,4138.0,Madikeri,20688.0,Good,Karnataka,5261.0,Autum
+160,Evoma,8.0,3525.0,Bengaluru,21989.5,Very good,Karnataka,4069.0,Autum
+161,Park Avenue Hotel Koramangala,8.9,3569.0,Bengaluru,17843.0,Excellent,Karnataka,4371.0,Autum
+163,"Liwa - The Transit Hotel, Bengaluru",8.2,3899.0,Bengaluru,19497.0,Very good,Karnataka,6654.0,Autum
+164,Itsy By Treebo | Jammabane Cottage,8.0,2674.0,Kodagu,13370.0,Very good,Karnataka,2602.0,Autum
+165,The Oterra,9.1,29028.0,Bengaluru,145140.0,Excellent,Karnataka,28249.0,Autum
+166,Hotel Suhashini Palace,7.8,3299.0,Mysore,16493.0,Good,Karnataka,2200.0,Autum
+167,"Gokulam Grand Resort & Spa, Coorg",8.6,8968.0,Kodagu,44838.0,Excellent,Karnataka,8968.0,Autum
+168,mkarcadehotel,9.0,1545.0,Chikkamagaluru,7727.0,Very Good,Karnataka,3336.0,Autum
+169,Bangalore Gate Hotel & Conferences,8.2,3722.0,Bengaluru,18609.0,Very good,Karnataka,4760.0,Autum
+170,Reunion Samrat - Aparthotel,8.7,2569.0,Manipal,12846.0,Very Good,Karnataka,4371.0,Autum
+171,OYO 9918 Sri Venkatesha Residency,9.0,1964.0,Chikkamagaluru,9819.0,Very Good,Karnataka,4371.0,Autum
+172,Hotel Richmond Residency,8.4,2239.0,Bengaluru,11194.0,Excellent,Karnataka,2239.0,Autum
+173,Hotel Karuna Residency,7.5,2714.0,Mangalore,13569.0,Good,Karnataka,3829.0,Autum
+174,MC Suites Mysuru,7.5,2832.0,Mysore,14160.0,Good,Karnataka,3920.0,Autum
+175,Nandhana Regent Koramangala,7.8,5488.0,Bengaluru,27440.0,Good,Karnataka,4371.0,Autum
+176,Prakruti Gokarna,8.2,1572.0,Gokarna,7859.0,Excellent,Karnataka,4371.0,Autum
+177,"Hotel La Gowri, Coorg",8.5,2963.0,Madikeri,14815.0,Excellent,Karnataka,4747.0,Autum
+178,La Sara Pride,7.5,3536.0,Bengaluru,17678.0,Good,Karnataka,4528.0,Autum
+179,Srs Suite,9.2,4104.0,Bengaluru,20520.0,Excellent,Karnataka,4371.0,Autum
+180,Murali Homestay,8.0,1119.0,Hampi,5594.0,Excellent,Karnataka,2799.0,Autum
+181,The Leela Palace Bengaluru,9.3,25909.0,Bengaluru,129545.0,Excellent,Karnataka,40161.0,Autum
+182,Seed Resort By Inner Living,8.1,3355.0,Mysore,16775.0,Excellent,Karnataka,3360.0,Autum
+183,"The Den, Bengaluru",8.8,27833.0,Bengaluru,139163.0,Excellent,Karnataka,4371.0,Autum
+184,Nature Inn Cottages,8.5,1356.0,Gokarna,6779.0,Excellent,Karnataka,929.0,Autum
+185,Ramanashree California Resort,8.4,3671.0,Bengaluru,21989.5,Excellent,Karnataka,4238.0,Autum
+186,The Grand Retreat - Chikmagalur,9.5,17537.0,Chikkamagaluru,87683.0,Excellent,Karnataka,11907.0,Autum
+187,Super Townhouse Hebbal Mysore,8.8,3872.0,Mysore,19359.0,Excellent,Karnataka,4501.0,Autum
+188,Arthigamya Spa & Resort,7.8,3360.0,Gokarna,21989.5,Good,Karnataka,4371.0,Autum
+189,Capital O 19377 Falnir Palace,7.7,2464.0,Mangalore,12320.0,Good,Karnataka,4371.0,Autum
+190,Novotel Bengaluru Outer Ring Road,9.0,23222.0,Bengaluru,116112.0,Excellent,Karnataka,20900.0,Autum
+191,"ITC Gardenia, a Luxury Collection Hotel, Bengaluru",9.2,24957.0,Bengaluru,124785.0,Excellent,Karnataka,24957.0,Autum
+192,Gamyam Beach Resort,9.3,16086.0,Kumta,80430.0,Excellent,Karnataka,4371.0,Autum
+193,"Treebo Sky City Grand, 5 Min From Mangalore Airport",8.2,1792.0,Mangalore,8961.0,Excellent,Karnataka,1792.0,Autum
+194,Super Hotel O Whitefield,8.4,1369.0,Bengaluru,6843.0,Excellent,Karnataka,1208.0,Autum
+195,Serenity Stay Inn,8.4,1258.0,Bengaluru,6292.0,Excellent,Karnataka,1258.0,Autum
+196,Super Collection O Peenya 2nd stage Formerly the JK Grand,8.4,1354.0,Bengaluru,6770.0,Excellent,Karnataka,1195.0,Autum
+197,"Hotel Chalet, Madiwala",8.4,1462.0,Bengaluru,7308.0,Excellent,Karnataka,1061.0,Autum
+198,Super Collection O K R Puram Manyata,8.4,1464.0,Bengaluru,7319.0,Excellent,Karnataka,1169.0,Autum
+199,Tulips Inn Mysuru,8.1,1680.0,Mysore,8400.0,Excellent,Karnataka,4371.0,Autum
+200,"Wandr Hotel Medicity Gurugram, Near Medanta Hospital",8.4,1847.0,Bengaluru,9237.0,Excellent,Karnataka,1862.0,Autum
+201,Olive Domlur - by Embassy Group,8.4,2183.0,Bengaluru,10916.0,Excellent,Karnataka,1953.0,Autum
+202,FabHotel Turning Point,8.4,2431.0,Bengaluru,12154.0,Excellent,Karnataka,2317.0,Autum
+203,Townhouse Oak Grand Wilton Inn Opposite Phoenix Market City,8.4,2374.0,Bengaluru,11871.0,Excellent,Karnataka,2064.0,Autum
+204,Super Collection O Brookefield Central Formerly Bangalore Inn,8.4,1807.0,Bengaluru,9034.0,Excellent,Karnataka,1629.0,Autum
+205,UVA MANISH,8.5,3931.0,Kundapur,19656.0,Very Good,Karnataka,3084.0,Autum
+206,OYO Royal Homes,8.4,863.0,Bengaluru,4317.0,Excellent,Karnataka,762.0,Autum
+207,Hotel Dvaraka Inn,8.3,2142.0,Bengaluru,10710.0,Very good,Karnataka,2142.0,Autum
+208,"Cubbon Suites - 10 Minute walk to MG Road, MG Road Metro and Church Street",8.4,2800.0,Bengaluru,14000.0,Excellent,Karnataka,2800.0,Autum
+209,Treebo Tryst New Light Suites,8.4,2507.0,Bengaluru,12535.0,Excellent,Karnataka,2507.0,Autum
+210,Seema Palace Inn,8.1,2239.0,Mysore,11194.0,Excellent,Karnataka,4371.0,Autum
+211,Hotel Sy Comforts,8.4,1814.0,Bengaluru,9072.0,Excellent,Karnataka,1414.0,Autum
+212,Olive Koramangala 4th Block by Embassy Group,8.4,2305.0,Bengaluru,11523.0,Excellent,Karnataka,2016.0,Autum
+213,POP 82272C Townhouse Oak- Seven Olives,8.4,1847.0,Bengaluru,9235.0,Excellent,Karnataka,1438.0,Autum
+214,Oasis Suites,8.1,3134.0,Hubli,15669.0,Excellent,Karnataka,4371.0,Autum
+215,moriz inn,8.1,2765.0,Mysore,13825.0,Excellent,Karnataka,4371.0,Autum
+216,Vismaya Comforts,8.1,1119.0,Mysore,5594.0,Excellent,Karnataka,1119.0,Autum
+217,Astra Hotels & Suites - Marathahalli,8.4,2337.0,Bengaluru,11684.0,Excellent,Karnataka,1828.0,Autum
+218,Grand Plaza,8.1,1512.0,Hubli,7560.0,Excellent,Karnataka,1512.0,Autum
+219,Hill View Paradise,8.2,2641.0,Gokarna,13205.0,Excellent,Karnataka,3000.0,Autum
+220,Hotel Rize Inn,8.4,2218.0,Bengaluru,11090.0,Excellent,Karnataka,1779.0,Autum
+221,The Hosteller Chikmagalur,9.3,3736.0,Chikkamagaluru,18680.0,Excellent,Karnataka,4623.0,Autum
+222,Hotel Fusion Suites,8.4,906.0,Bengaluru,4531.0,Excellent,Karnataka,785.0,Autum
+223,Regenta INN Grand Koramangala by Royal Orchid Hotels,8.4,4099.0,Bengaluru,20493.0,Excellent,Karnataka,4099.0,Autum
+224,Majali Beach Village,7.6,4723.0,Karwar,23613.0,Good,Karnataka,3783.0,Autum
+225,Coorg ASHOK PALACE,8.7,3584.0,Madikeri,17920.0,Very Good,Karnataka,3584.0,Autum
+226,Silverkey Hotel Yelahanka,8.4,2531.0,Bengaluru,12653.0,Excellent,Karnataka,2006.0,Autum
+227,Panther Jungle Stay Dandeli,8.3,3811.0,Dandeli,19055.0,Excellent,Karnataka,2775.0,Autum
+228,Pravasa Hotel Vijayapura,8.2,3225.0,Bijapur,16124.0,Excellent,Karnataka,2752.0,Autum
+229,Treebo Trend Atithi Comforts 1 Km From Nisargadhama Forest,8.7,1990.0,Kushalnagar,9949.0,Very Good,Karnataka,1990.0,Autum
+230,Axon Bellandur,8.4,7213.0,Bengaluru,36066.0,Excellent,Karnataka,5893.0,Autum
+231,JW Marriott Hotel Bengaluru,9.2,35155.0,Bengaluru,175773.0,Excellent,Karnataka,35155.0,Autum
+232,The Bliss Hotel,8.1,3326.0,Hubli,16632.0,Excellent,Karnataka,2622.0,Autum
+233,Royal Indraprastha The Hotel,8.4,2800.0,Bengaluru,14000.0,Excellent,Karnataka,2103.0,Autum
+234,Hotel Laxmi Cityside,8.2,3583.0,Mangalore,17914.0,Excellent,Karnataka,3286.0,Autum
+235,Nandan Residency,8.1,2621.0,Mysore,13105.0,Excellent,Karnataka,1782.0,Autum
+236,Sri Vinayaka Comforts,8.1,1119.0,Mysore,5594.0,Excellent,Karnataka,4371.0,Autum
+237,Treebo Trend Maharaja Inn,8.0,3775.0,Chikkamagaluru,18874.0,Very good,Karnataka,3259.0,Autum
+238,Blue Waters,8.5,3864.0,Kundapur,19320.0,Excellent,Karnataka,3864.0,Autum
+239,Samarth Residency,7.7,2575.0,Hampi,12875.0,Good,Karnataka,2575.0,Autum
+240,Hotel Sun Bright Residency Manipal,8.7,3026.0,Manipal,15131.0,Very Good,Karnataka,2671.0,Autum
+241,Hometown Galleria Manipal,9.0,5824.0,Manipal,29121.0,Excellent,Karnataka,5824.0,Autum
+242,RNS Residency Sea View,7.8,8275.0,Murudeshwara,41375.0,Good,Karnataka,8275.0,Autum
+243,Suvarna Luxury Home Stay,8.1,2520.0,Mysore,12598.0,Excellent,Karnataka,2520.0,Autum
+244,Central Park,7.9,4445.0,Manipal,22223.0,Good,Karnataka,4371.0,Autum
+245,Hotel Crystal Court,8.7,3293.0,Madikeri,16464.0,Very Good,Karnataka,4371.0,Autum
+246,Royal Ritis,8.8,3017.0,Belgaum,15087.0,Very Good,Karnataka,2571.0,Autum
+247,Vasathi,8.2,4086.0,Kodagu,20432.0,Very good,Karnataka,2539.0,Autum
+248,Citrine,8.5,5179.0,Bengaluru,25897.0,Excellent,Karnataka,5179.0,Autum
+249,"Zostel Coorg, Madikeri",8.5,3621.0,Kodagu,18106.0,Excellent,Karnataka,1772.0,Autum
+250,Golden Metro Hotel,8.4,4739.0,Bengaluru,23697.0,Excellent,Karnataka,4291.0,Autum
+251,The Casiita,8.7,4939.0,Kushalnagar,24695.0,Very Good,Karnataka,3945.0,Autum
+252,"The Hoften Sterling Plaza, Bangalore International Airport",8.2,2686.0,Devanahalli,13430.0,Excellent,Karnataka,2752.0,Autum
+253,Tetrad Hotels - International Airport Road Hebbal,8.4,2294.0,Bengaluru,11472.0,Excellent,Karnataka,3583.0,Autum
+254,Regenta Inn Bannerghatta Bangalore,8.4,3354.0,Bengaluru,16768.0,Excellent,Karnataka,3007.0,Autum
+255,"The Hosteller Bangalore, Koramangala",8.4,3241.0,Bengaluru,16207.0,Excellent,Karnataka,2265.0,Autum
+256,Taj MG Road Bengaluru,9.0,34181.0,Bengaluru,170907.0,Excellent,Karnataka,28858.0,Autum
+257,Patel Comforts Inn & Suites,8.1,1704.0,Mysore,8520.0,Excellent,Karnataka,3118.0,Autum
+258,SPLENDID SHUBHAM SERVICED APARTMENTS,8.6,4756.0,Bengaluru,23778.0,Excellent,Karnataka,3718.0,Autum
+259,Mastiff Grand Dharwad,8.1,3898.0,Hubli,19488.0,Excellent,Karnataka,3599.0,Autum
+260,The Orchard Resort,8.8,3464.0,Belgaum,17322.0,Very Good,Karnataka,4076.0,Autum
+261,Grand Continent Hebbal A Sarovar Portico Affiliate Hotel,8.4,6081.0,Bengaluru,30407.0,Excellent,Karnataka,5204.0,Autum
+262,Diwa Homes Jasper 3bhk Pvt Pool Villa Nr Thalassa,9.6,15576.0,Siolim,77880.0,Excellent,Goa,4974.0,Summer
+263,DoubleTree by Hilton Hotel Goa - Arpora - Baga,7.9,6093.0,Arpora,30466.0,Good,Goa,5783.0,Summer
+264,Goan Portuguese Heritage Villa At Arambol,9.6,14401.0,Pernem,72004.0,Excellent,Goa,4974.0,Summer
+265,Hilton Goa Resort Candolim,8.8,12138.0,Velha Goa,60689.0,Excellent,Goa,12138.0,Summer
+266,"Cozy Patrix House At Galgibaga (turtle) Beach ,goa",9.6,8198.0,Canacona,40988.0,Excellent,Goa,4974.0,Summer
+267,"Golden Tulip Candolim, Goa",8.3,4912.0,Candolim,27185.5,Very good,Goa,4974.0,Summer
+268,Palolem Penthouse,9.5,5171.0,Canacona,25854.0,Excellent,Goa,4974.0,Summer
+269,Holiday Inn Goa Candolim By Ihg,9.3,7331.0,Candolim,36655.0,Excellent,Goa,6930.0,Summer
+270,White Sands Beach Pool Villa (no Service Fee),9.2,10336.0,Varca,51678.0,Excellent,Goa,4974.0,Summer
+271,"Club Mahindra Emerald Palms, Goa",8.7,8200.0,Margao,41002.0,Excellent,Goa,6630.0,Summer
+272,3bhk Duplex Villa With Swimming Pool View,9.6,11264.0,Siolim,56318.0,Excellent,Goa,4974.0,Summer
+273,Jolly Panda Resort Goa,8.6,1185.0,Candolim,5927.0,Excellent,Goa,1185.0,Summer
+274,3 Bhk Luxury Beach Villa. Happy 2 U Candolim.,9.8,12667.0,Candolim,63337.0,Excellent,Goa,4974.0,Summer
+275,Fairfield by Marriott Goa Anjuna,8.4,4854.0,Anjuna,24269.0,Very good,Goa,4842.0,Summer
+276,Luxury Hill Cottage With Private Pool,9.5,7618.0,Margao,38088.0,Excellent,Goa,4974.0,Summer
+277,"Le Meridien Goa, Calangute",8.8,9204.0,Calangute,46020.0,Excellent,Goa,8483.0,Summer
+278,Luxurious 2 Bedroom Penthouse Near Candolim,9.8,9144.0,Panaji,45718.0,Excellent,Goa,4974.0,Summer
+279,Hyatt Centric Candolim Goa,8.8,7983.0,Candolim,39917.0,Excellent,Goa,7964.0,Summer
+280,Laavila | 2bhk | Cosy Villa In Siolim Pvt Pool,9.5,15188.0,Panaji,75939.0,Excellent,Goa,4974.0,Summer
+281,Beach Edge Calangute,8.4,1344.0,Calangute,6720.0,Very good,Goa,856.0,Summer
+282,Boho Baga,9.1,5625.0,Baga,28124.0,Excellent,Goa,4974.0,Summer
+283,O Camarao,8.6,1504.0,Calangute,7522.0,Very Good,Goa,1429.0,Summer
+284,Beach Stroll Villa: Luxurious 3bhk With Fieldviews,9.2,5674.0,Varca,28370.0,Excellent,Goa,4974.0,Summer
+285,"Ginger Goa, Panjim",7.9,4479.0,Panaji,22394.0,Good,Goa,3951.0,Summer
+286,Zalor Retreat: Just A 500m Stroll To Paradise,9.7,4917.0,Varca,24587.0,Excellent,Goa,4974.0,Summer
+287,The O2H Agonda Beach Resort,9.2,7455.0,Agonda,37274.0,Excellent,Goa,13558.0,Summer
+288,Luxurious 2bhk Apartment,9.5,6306.0,Calangute,31529.0,Excellent,Goa,4974.0,Summer
+289,Resort Terra Paraiso,8.4,4348.0,Calangute,21738.0,Very good,Goa,4843.0,Summer
+290,Luxury ! Coastal Reef| Fully Serviced | Pvt Pool,9.4,17700.0,Siolim,88500.0,Excellent,Goa,4974.0,Summer
+291,ibis Styles Goa Calangute Hotel,9.1,4323.0,Calangute,21616.0,Excellent,Goa,4314.0,Summer
+292,Pvt Pool 5bhk Portuguese Retreat - Casa Jacques,9.6,9458.0,Majorda,47288.0,Excellent,Goa,4974.0,Summer
+293,Novotel Goa Resort & Spa,8.7,8651.0,Candolim,43254.0,Excellent,Goa,8226.0,Summer
+294,Sakura - 3 Bhk Villa @ Colva | Pool | Breakfast,9.6,12390.0,Colva,61950.0,Excellent,Goa,4974.0,Summer
+295,Welcome To Casa Manoa!,9.4,5482.0,Candolim,27412.0,Excellent,Goa,4974.0,Summer
+296,4bhk Luxe Serviced Penthouse | Sea View | Panjim,9.5,19738.0,Panaji,98692.0,Excellent,Goa,4974.0,Summer
+297,Royalstar Resort,9.0,2257.0,Anjuna,11286.0,Excellent,Goa,4974.0,Summer
+298,Villa Siolim| Private Pool | Vagator Closest Beach,9.6,19232.0,Candolim,96162.0,Excellent,Goa,4974.0,Summer
+299,"Relax Holiday Home,Margao Railway Station",8.3,2258.0,Benaulim,9313.0,Very good,Goa,4974.0,Summer
+300,3 Bedroom Duplex Villa With Pvt Terrace,9.6,5038.0,Candolim,25192.0,Excellent,Goa,4974.0,Summer
+301,Vivenda Rebelo,9.4,3080.0,Panaji,15400.0,Excellent,Goa,3353.0,Summer
+302,Value For Money Villa | Private Pool-wifi-cartaker,9.6,8366.0,Calangute,41832.0,Excellent,Goa,4974.0,Summer
+303,DoubleTree by Hilton Goa Panaji,9.0,6817.0,Panaji,34086.0,Excellent,Goa,7512.0,Summer
+304,2Bhk Green View | 5min from Airport |Zennova Stays,9.7,3613.0,Loutolim,18063.0,Excellent,Goa,4974.0,Summer
+305,The Hawaii Comforts,8.3,2740.0,Vainguinim Beach,13699.0,Very good,Goa,2740.0,Summer
+306,"Plush 1 Bhk Apartment, Candolim, North Goa",9.7,3549.0,Candolim,17743.0,Excellent,Goa,4974.0,Summer
+307,"FabHotel Prime Sarala Crown With Pool, Calangute Beach",8.1,2311.0,Calangute,27185.5,Very good,Goa,2311.0,Summer
+308,Royal Palms - 1 Bhk 1 Min Drive To The Beach,9.5,3064.0,Benaulim,15318.0,Excellent,Goa,4974.0,Summer
+309,Sea Esta Holiday Homes - Homestay,9.8,3784.0,Colva,18918.0,Excellent,Goa,4974.0,Summer
+310,"Fortune Resort Benaulim, Goa - Member ITC's Hotel Group",8.3,7360.0,Benaulim,36798.0,Very good,Goa,6834.0,Summer
+311,"God Grace 1, Studio Apartment Morjim",9.8,1513.0,Morjim,7567.0,Excellent,Goa,4974.0,Summer
+312,"The Porto by lagom , Anjuna, vagator beach",7.8,2664.0,Anjuna,27185.5,Good,Goa,4974.0,Summer
+313,Elegant Homestay | Cozy 1bhk Ac| Free Wifi | Goa,9.4,1765.0,Candolim,8824.0,Excellent,Goa,4974.0,Summer
+314,Granpa's Inn Hotel Bougainvillea,8.9,2818.0,Anjuna,14089.0,Excellent,Goa,2690.0,Summer
+315,2bhk Ac/backup/wi-fi Near Candolim Beach,9.7,2459.0,Candolim,12297.0,Excellent,Goa,4974.0,Summer
+316,Calangute Ocean Wave,8.8,2195.0,Baga,10976.0,Excellent,Goa,2195.0,Summer
+317,1bhk-5 /ac/ Backup/pool 5min To Candolim Beach,9.6,1930.0,Candolim,9648.0,Excellent,Goa,4974.0,Summer
+318,Super Townhouse Calangute - Baga Circle Formerly Park Avenue,8.8,2209.0,Calangute,11045.0,Excellent,Goa,2209.0,Summer
+320,Comfort Stays Miramar,7.9,1845.0,Velha Goa,9223.0,Good,Goa,4974.0,Summer
+321,Club Mahindra Assonora,9.2,10280.0,Pernem,51402.0,Excellent,Goa,8225.0,Summer
+322,Acron Waterfront Resort,8.9,6137.0,Baga,30687.0,Excellent,Goa,5806.0,Summer
+323,Eve Resort,9.2,2660.0,Canacona,13300.0,Excellent,Goa,5028.0,Summer
+324,"De Lagom Comforts, Anjuna Beach",7.9,2056.0,Anjuna,27185.5,Good,Goa,2056.0,Summer
+325,"Woodpegger By The Beach, Mandrem",7.9,2344.0,Pernem,11721.0,Good,Goa,1591.0,Summer
+326,Coastal Pearl Hotel Margao Railway Station,8.8,2015.0,Margao,10075.0,Excellent,Goa,1745.0,Summer
+327,D7 La Serene,8.9,3024.0,Benaulim,15120.0,Excellent,Goa,2482.0,Summer
+328,Resorte Marinha Dourada,8.0,2141.0,Arpora,27185.5,Very good,Goa,2756.0,Summer
+329,Dreams Hostel,8.7,2464.0,Panaji,12320.0,Excellent,Goa,4974.0,Summer
+330,Rivasa Emerald,8.6,3401.0,Calangute,17005.0,Very Good,Goa,6075.0,Summer
+331,Sai Prabhavati,8.8,1680.0,Velha Goa,8400.0,Excellent,Goa,4974.0,Summer
+332,Tranquil Inn,8.5,2222.0,Calangute,11112.0,Excellent,Goa,4269.0,Summer
+333,"Taj Exotica Resort & Spa, Goa",9.4,27783.0,Benaulim,138913.0,Excellent,Goa,24267.0,Summer
+334,Mamta courtyard anjuna,7.7,1344.0,Anjuna,6720.0,Good,Goa,1344.0,Summer
+335,The Byke Royal Pearl Anjuna,8.9,3494.0,Anjuna,17470.0,Excellent,Goa,3494.0,Summer
+336,Mariaariose,8.5,2615.0,Bogmalo Beach,13074.0,Very Good,Goa,2621.0,Summer
+337,3102bce - A Vedic Resort,8.9,4928.0,Anjuna,24640.0,Excellent,Goa,4562.0,Summer
+338,Casa Anjuna,8.2,5936.0,Anjuna,29680.0,Very good,Goa,5618.0,Summer
+339,Fiesta Beach Resort,7.9,3315.0,Baga,27185.5,Good,Goa,4639.0,Summer
+340,Holitel Anjuna Goa,9.4,3778.0,Anjuna,18888.0,Excellent,Goa,9445.0,Summer
+341,Treebo Trend Lands End Beach Resort Morjim,8.2,2292.0,Morjim,11459.0,Very good,Goa,2297.0,Summer
+342,Morjim Resort,8.9,1490.0,Morjim,7448.0,Very Good,Goa,4974.0,Summer
+343,JW HERITAGE,8.6,2572.0,Anjuna,12862.0,Excellent,Goa,2242.0,Summer
+344,Holiday Beach Resort,8.9,2794.0,Candolim,13972.0,Very Good,Goa,2182.0,Summer
+345,Colva Plaza,8.4,2326.0,Margao,11631.0,Very good,Goa,1808.0,Summer
+346,Sonho do Mar,8.8,3068.0,Agonda,15339.0,Excellent,Goa,4974.0,Summer
+347,Ocean View,8.5,1502.0,Velha Goa,27185.5,Very Good,Goa,1959.0,Summer
+348,Zense Resort,8.5,1693.0,Velha Goa,8463.0,Very Good,Goa,4974.0,Summer
+349,Sai Valentines,7.9,2010.0,Agonda,27185.5,Good,Goa,2927.0,Summer
+350,Altrude By The Sea,8.6,3508.0,Candolim,27185.5,Excellent,Goa,4480.0,Summer
+351,Hotel Joaquim Near Baga Beach,8.8,1768.0,Baga,8839.0,Very Good,Goa,4974.0,Summer
+352,Sterling Goa Varca,8.8,3391.0,Varca,27185.5,Excellent,Goa,5675.0,Summer
+353,Sea Sapphire,9.2,2815.0,Calangute,14077.0,Excellent,Goa,4974.0,Summer
+354,Noel Guest House,8.5,1679.0,Bogmalo Beach,8394.0,Excellent,Goa,1679.0,Summer
+355,Calangute Resort,8.0,3270.0,Calangute,16348.0,Very good,Goa,4435.0,Summer
+356,Silver Sands Hideaway,7.8,3148.0,Candolim,27185.5,Good,Goa,4520.0,Summer
+357,FabHotel Prime The King's Court Calangute with Pool and Bar,8.6,2555.0,Calangute,12774.0,Very Good,Goa,2233.0,Summer
+358,Royal Mirage Boutique Morjim,8.9,1606.0,Morjim,8032.0,Very Good,Goa,4974.0,Summer
+359,TreeHouse Neptune,7.5,6575.0,Panaji,32874.0,Good,Goa,3519.0,Summer
+360,"Magnum Resorts- Near Candolim Beach, Goa",8.9,2401.0,Candolim,12007.0,Very Good,Goa,4924.0,Summer
+361,WTF My House,8.9,2574.0,Baga,12871.0,Excellent,Goa,4974.0,Summer
+362,Libton Manor,7.9,1784.0,Candolim,8921.0,Good,Goa,1347.0,Summer
+363,The Apartment Hotel YoYo Goa,7.8,1611.0,Anjuna,8053.0,Good,Goa,4722.0,Summer
+364,"FabHotel Prime Tanjo Highland With Pool, Candolim Beach - 700M From Candolim Beach",8.3,1994.0,Candolim,9972.0,Very good,Goa,2135.0,Summer
+365,Ria Residency,8.5,2586.0,Velha Goa,12931.0,Very Good,Goa,2085.0,Summer
+366,Kalki Resort & Cottages,8.0,2505.0,Calangute,12523.0,Very good,Goa,4974.0,Summer
+367,Sunkissed Plaza,8.5,1680.0,Velha Goa,27185.5,Very Good,Goa,4974.0,Summer
+368,Maria Paulo Guest House,8.2,2234.0,Agonda,11172.0,Very good,Goa,2234.0,Summer
+369,NV Beach Resort,8.6,2725.0,Calangute,13624.0,Very Good,Goa,4974.0,Summer
+370,Veda5 Wellness Retreat & Spa,9.7,6396.0,Morjim,31982.0,Excellent,Goa,9558.0,Summer
+371,Papa Jolly Eco Resort-Near Morjim Beach,7.7,3498.0,Panaji,17492.0,Good,Goa,3920.0,Summer
+372,Sea Coin,8.0,3073.0,Colva,15365.0,Very good,Goa,4974.0,Summer
+373,Hotel 69,8.4,2361.0,Calangute,11803.0,Very good,Goa,2220.0,Summer
+374,Hotel Candolim Grande,9.5,2742.0,Candolim,13711.0,Excellent,Goa,4974.0,Summer
+375,Hotel Casa fontia,8.3,2848.0,Arpora,14242.0,Very good,Goa,4974.0,Summer
+376,Treebo Trend Rain Forest Enclave,9.1,3359.0,Arpora,16794.0,Excellent,Goa,3359.0,Summer
+377,Royal Wood Beach Resort,7.6,3501.0,Canacona,17507.0,Good,Goa,3841.0,Summer
+378,The Pearl Beach Resort,9.4,3501.0,Canacona,17507.0,Excellent,Goa,4974.0,Summer
+379,Hotel O Flagship Hotel 4 Pillar's Near Immaculate Conception Church,8.8,2459.0,Panaji,12296.0,Very Good,Goa,2421.0,Summer
+380,"Crystall Goa, Onyx Edition",8.9,3155.0,Canacona,15777.0,Very Good,Goa,4974.0,Summer
+381,Orabella Villas & Suites,7.9,3513.0,Calangute,27185.5,Good,Goa,3689.0,Summer
+382,Casa Comfort,8.4,3551.0,Anjuna,17753.0,Very good,Goa,4974.0,Summer
+383,Wild Berry Resort Agonda,8.4,3635.0,Canacona,18173.0,Very good,Goa,4974.0,Summer
+384,"FabExpress Corinthia Boutique Rooms, Candolim Beach",8.9,3011.0,Candolim,15053.0,Very Good,Goa,1474.0,Summer
+385,De Falcon Goa Beach Resort,8.9,3302.0,Candolim,16512.0,Very Good,Goa,3402.0,Summer
+386,Ocean Wave Calangute,8.1,3584.0,Calangute,17920.0,Very good,Goa,2688.0,Summer
+387,Lar Amorosa - Boutique B&B,9.3,3477.0,Velha Goa,17383.0,Excellent,Goa,2643.0,Summer
+388,Pacific Sunset View Resort,8.7,3920.0,Canacona,19600.0,Excellent,Goa,4974.0,Summer
+389,"BELLS BEACH RESORT , A Unit of Resort De Balneaire",8.5,2807.0,Velha Goa,14036.0,Very Good,Goa,3381.0,Summer
+390,The Westin Goa,9.3,28603.0,Anjuna,143013.0,Excellent,Goa,4974.0,Summer
+392,Eternal wave by HappyInch,8.4,3580.0,Calangute,17901.0,Very good,Goa,4974.0,Summer
+393,Villa Verediana,8.4,1924.0,Candolim,9618.0,Very good,Goa,1486.0,Summer
+394,"FabHotel Prime Toro Highland Beach Resort With Pool, Candolim",8.4,2223.0,Candolim,11114.0,Very good,Goa,2094.0,Summer
+395,Sun City Resort,8.8,3256.0,Baga,16279.0,Very Good,Goa,2688.0,Summer
+396,Hotel Baga Bay 200 Meters From Baga Beach,8.8,2980.0,Baga,14901.0,Very Good,Goa,3317.0,Summer
+397,FabEscape Sunset Beach Resort,8.3,3998.0,Calangute,19992.0,Very good,Goa,3531.0,Summer
+398,Resort Palmeiras Dourado,8.6,3920.0,Velsao Beach,19600.0,Excellent,Goa,3920.0,Summer
+399,Sunshine Vagator,8.5,1420.0,Anjuna,7101.0,Very Good,Goa,1420.0,Summer
+400,Mansao Curtorim - A CGH Earth SAHA Experience,8.8,7040.0,Margao,35198.0,Very Good,Goa,10981.0,Summer
+401,Amber Rooms,7.9,2923.0,Porvorim,14615.0,Good,Goa,2923.0,Summer
+402,Brushwood Villa Resort,8.9,2061.0,Canacona,10304.0,Very Good,Goa,2061.0,Summer
+403,Shining Sand Beach Hotel,8.9,7142.0,Baga,35709.0,Excellent,Goa,5799.0,Summer
+404,Bloom Hotel - Dona Paula,8.8,4913.0,Panaji,24563.0,Very Good,Goa,4490.0,Summer
+405,Beseco Bed and Breakfast,9.5,3248.0,Benaulim,16239.0,Excellent,Goa,3248.0,Summer
+406,Casa Baga,7.6,4257.0,Calangute,21283.0,Good,Goa,4249.0,Summer
+407,Tridiva Morjim 160 Meters to Morjim Beach,8.9,3500.0,Morjim,17501.0,Excellent,Goa,3500.0,Summer
+409,Valeria's Holiday Homes,8.5,3763.0,Cavelossim,18816.0,Excellent,Goa,3763.0,Summer
+410,Agonda Beach Villa,8.8,3977.0,Agonda,19884.0,Excellent,Goa,3001.0,Summer
+411,BSG Porvorim Regency Hotel Goa,7.8,6656.0,Velha Goa,33278.0,Good,Goa,3695.0,Summer
+412,Nanu Beach Resort & Spa,8.7,7826.0,Colva,39129.0,Excellent,Goa,7598.0,Summer
+413,Resort Coqueiral,9.1,5001.0,Candolim,25003.0,Excellent,Goa,5001.0,Summer
+414,The Crescent,9.1,5509.0,Panaji,27545.0,Excellent,Goa,5318.0,Summer
+415,Treebo Sea Coin Colva,9.1,4209.0,Colva,21045.0,Excellent,Goa,4974.0,Summer
+416,Asian Dona Rosa 1,8.2,4371.0,Varca,21857.0,Very good,Goa,4371.0,Summer
+417,SinQ Anvaya,8.9,5468.0,Pernem,27338.0,Very Good,Goa,4974.0,Summer
+418,"Brij Paraiso Saligao, Goa - An Indo-Portuguese Villa",8.6,14931.0,Calangute,74655.0,Very Good,Goa,14075.0,Summer
+419,Silve Heritage Resort Goa,9.0,7543.0,Colva,37713.0,Very Good,Goa,7560.0,Summer
+420,Golden Landmark Green Valley Beach Resort,9.0,5040.0,Panaji,25202.0,Excellent,Goa,5040.0,Summer
+421,Caravela Beach Resort,8.8,36632.0,Varca,183158.0,Excellent,Goa,53427.0,Summer
+422,MansionHaus,8.5,15596.0,Velha Goa,77978.0,Very Good,Goa,12589.0,Summer
+423,"Sibaya Beach Resort, Morjim",7.9,8210.0,Morjim,41049.0,Good,Goa,7209.0,Summer
+424,Little India Beach Cottages,8.5,6497.0,Calangute,32483.0,Excellent,Goa,1490.0,Summer
+425,Paparazzi Resort,8.5,5266.0,Velha Goa,26332.0,Very Good,Goa,3573.0,Summer
+426,The Green Boutique,8.8,5710.0,Panaji,28551.0,Excellent,Goa,5711.0,Summer
+427,Pinto Villa,8.6,5488.0,Calangute,27439.0,Very Good,Goa,4399.0,Summer
+428,O Pierre,8.2,5040.0,Velha Goa,25202.0,Very good,Goa,5040.0,Summer
+429,Susegad Suites Goa,9.0,6997.0,Calangute,34985.0,Excellent,Goa,5577.0,Summer
+430,Agosto @aansav Verde Fatrade Varca Goa 3 Br Villa,8.8,7586.0,Varca,37931.0,Excellent,Goa,7586.0,Summer
+431,YU Hotel Candolim,7.8,6272.0,Candolim,31358.0,Good,Goa,6272.0,Summer
+432,TreeHouse Neptune Inn,8.5,4023.0,Velha Goa,20113.0,Very Good,Goa,3968.0,Summer
+433,Andores Resort And Spa - Calangute,9.3,12403.0,Calangute,62014.0,Excellent,Goa,12402.0,Summer
+434,Turrett Cottage Top Garden Priz @ Ooty Flower Show,9.6,13124.0,Udhagamandalam,65618.0,Excellent,Tamil Nadu,4199.0,Monsoon
+435,Courtyard by Marriott Madurai,8.9,8896.0,Madurai,44480.0,Excellent,Tamil Nadu,8896.0,Monsoon
+436,"Feathers- A Radha Hotel, Chennai",8.9,13204.0,Chennai,20389.9,Excellent,Tamil Nadu,15222.0,Monsoon
+437,Trident Hotel Chennai,9.1,12390.0,Chennai,61950.0,Excellent,Tamil Nadu,12390.0,Monsoon
+438,Ibis Chennai Omr,9.0,3846.0,Chennai,19232.0,Excellent,Tamil Nadu,3846.0,Monsoon
+439,Courtyard Chennai,8.7,9334.0,Chennai,46669.0,Excellent,Tamil Nadu,9334.0,Monsoon
+440,Holiday Inn Express Chennai Omr Thoraipakkam By Ihg,8.1,3109.0,Chennai,15545.0,Very good,Tamil Nadu,3109.0,Monsoon
+441,Fairfield by Marriott Chennai OMR,8.4,4507.0,Chennai,22534.0,Very good,Tamil Nadu,4507.0,Monsoon
+442,Kiscol Grands Hotel,8.6,4480.0,Coimbatore,22400.0,Excellent,Tamil Nadu,3077.0,Monsoon
+443,Holiday Inn Chennai Omr It Expressway By Ihg,8.8,9054.0,Chennai,45270.0,Excellent,Tamil Nadu,8903.0,Monsoon
+444,Novotel Chennai Chamiers Road,9.0,8920.0,Chennai,44599.0,Excellent,Tamil Nadu,8920.0,Monsoon
+445,Tipperary Garden Villa - With Private Garden Space,9.6,17700.0,Yercaud,88500.0,Excellent,Tamil Nadu,4199.0,Monsoon
+446,Hotel Le Méridien Coimbatore,8.8,9855.0,Coimbatore,20389.9,Excellent,Tamil Nadu,9855.0,Monsoon
+447,The Residency,8.6,8742.0,Chennai,43709.0,Excellent,Tamil Nadu,6769.0,Monsoon
+448,Hyatt Regency Chennai,8.7,9133.0,Chennai,45666.0,Excellent,Tamil Nadu,9133.0,Monsoon
+449,Ramada Chennai Egmore,8.2,7078.0,Chennai,35390.0,Very good,Tamil Nadu,9440.0,Monsoon
+450,Citadines OMR Chennai,8.8,5544.0,Chennai,27720.0,Excellent,Tamil Nadu,5544.0,Monsoon
+451,Four Points by Sheraton Chennai OMR,8.0,4958.0,Chennai,24791.0,Very good,Tamil Nadu,4958.0,Monsoon
+452,The Park Chennai,7.9,8382.0,Chennai,41910.0,Good,Tamil Nadu,6963.0,Monsoon
+453,The Accord Metropolitan,8.7,9907.0,Chennai,49535.0,Excellent,Tamil Nadu,10291.0,Monsoon
+454,Lilac Kumbakonam,9.5,5372.0,Kumbakonam,26859.0,Excellent,Tamil Nadu,4199.0,Monsoon
+455,Gokulam Park Coimbatore,8.9,6170.0,Coimbatore,30850.0,Excellent,Tamil Nadu,5593.0,Monsoon
+456,Hotel Benzz Park Vellore,8.1,4997.0,Vellore,24985.0,Very good,Tamil Nadu,4153.0,Monsoon
+457,Taj Coromandel,9.3,11491.0,Chennai,57455.0,Excellent,Tamil Nadu,12064.0,Monsoon
+458,Vivanta Coimbatore,8.9,7833.0,Coimbatore,39164.0,Excellent,Tamil Nadu,8041.0,Monsoon
+459,Tree Elanza,8.0,1296.0,Kodaikanal,6479.0,Very good,Tamil Nadu,1296.0,Monsoon
+460,The Residency Towers,8.8,11438.0,Chennai,57191.0,Excellent,Tamil Nadu,15161.0,Monsoon
+461,44 Oasis,8.2,4991.0,Chennai,24954.0,Very good,Tamil Nadu,4367.0,Monsoon
+462,First Inn Hotels,8.3,3301.0,Chennai,16506.0,Excellent,Tamil Nadu,3080.0,Monsoon
+463,ibis Chennai City Centre,8.5,5376.0,Chennai,26880.0,Excellent,Tamil Nadu,5376.0,Monsoon
+464,Fairfield by Marriott Coimbatore,8.8,5980.0,Coimbatore,29898.0,Excellent,Tamil Nadu,5980.0,Monsoon
+465,Breeze Residency,7.9,4200.0,Tiruchirappalli,21000.0,Good,Tamil Nadu,4199.0,Monsoon
+466,Le Grace Bye Pass,8.3,1165.0,Madurai,5824.0,Very good,Tamil Nadu,1285.0,Monsoon
+467,Turyaa Chennai,8.8,6832.0,Chennai,34160.0,Excellent,Tamil Nadu,5483.0,Monsoon
+468,Sree Bharani Hotels,8.7,2594.0,Tirunelveli,12971.0,Very Good,Tamil Nadu,1489.0,Monsoon
+469,Itsy By Treebo - Umaiyyal Home Stay,8.3,1597.0,Kanyakumari,7983.0,Very good,Tamil Nadu,1126.0,Monsoon
+470,Royal Paris,7.9,2377.0,Chennai,11885.0,Good,Tamil Nadu,2377.0,Monsoon
+471,Lemon Tree Hotel Chennai,8.3,10098.0,Chennai,50490.0,Very good,Tamil Nadu,7492.0,Monsoon
+472,Courtyard by Marriott Tiruchirappalli,8.9,12448.0,Tiruchirappalli,62239.0,Excellent,Tamil Nadu,12448.0,Monsoon
+473,"Zaith Residency, Chennai",8.3,3024.0,Chennai,15120.0,Excellent,Tamil Nadu,2197.0,Monsoon
+474,"The Lotus Apartment Hotel, Burkit Road",7.7,5140.0,Chennai,25699.0,Good,Tamil Nadu,4671.0,Monsoon
+475,Le Meridien Coimbatore,8.7,9138.0,Coimbatore,45690.0,Excellent,Tamil Nadu,9138.0,Monsoon
+476,Broad Lands,7.7,1008.0,Chennai,5040.0,Good,Tamil Nadu,1008.0,Monsoon
+477,FabExpress Ragu Residency,8.5,1263.0,Coimbatore,6314.0,Very Good,Tamil Nadu,1263.0,Monsoon
+478,Somerset Greenways Chennai,8.9,13098.0,Chennai,65490.0,Excellent,Tamil Nadu,13098.0,Monsoon
+479,OYO Flagship Viswa Towers,8.4,1269.0,Madurai,6343.0,Excellent,Tamil Nadu,4199.0,Monsoon
+480,The Residency Towers Coimbatore,9.0,7376.0,Coimbatore,36880.0,Excellent,Tamil Nadu,6091.0,Monsoon
+481,Hotel White Mount,8.3,1637.0,Chennai,8187.0,Excellent,Tamil Nadu,1414.0,Monsoon
+482,Svatma - A Luxury Heritage Resort,8.6,10793.0,Thanjavur,53963.0,Excellent,Tamil Nadu,9767.0,Monsoon
+483,Treebo Trend Naaz Royal,7.8,1634.0,Thanjavur,8169.0,Good,Tamil Nadu,1540.0,Monsoon
+484,O by Tamara Coimbatore,9.3,6092.0,Coimbatore,30458.0,Excellent,Tamil Nadu,6092.0,Monsoon
+485,Hotel Green Palace,8.1,2520.0,Thanjavur,12600.0,Very good,Tamil Nadu,2323.0,Monsoon
+486,Blu Iris,8.2,5866.0,Chennai,29332.0,Very good,Tamil Nadu,3893.0,Monsoon
+487,Blue City Palace - Near Chennai Airport,8.3,1119.0,Chennai,5597.0,Excellent,Tamil Nadu,1119.0,Monsoon
+488,HALF MOON INN,8.3,1935.0,Chennai,9677.0,Excellent,Tamil Nadu,1681.0,Monsoon
+489,Mercure Chennai Sriperumbudur,9.1,13734.0,Sriperumbudur,68670.0,Excellent,Tamil Nadu,13734.0,Monsoon
+490,St Xavier always,8.3,1008.0,Chennai,5040.0,Excellent,Tamil Nadu,846.0,Monsoon
+491,RBS Residency,8.1,2214.0,Tiruchirappalli,11069.0,Excellent,Tamil Nadu,1604.0,Monsoon
+492,Regency Madurai by GRT Hotels,8.6,6545.0,Madurai,32724.0,Excellent,Tamil Nadu,5914.0,Monsoon
+493,Hotel Lovely Nest,7.6,1456.0,Coimbatore,7280.0,Good,Tamil Nadu,1456.0,Monsoon
+494,Paradise Guest House,8.3,1022.0,Chennai,5109.0,Excellent,Tamil Nadu,4199.0,Monsoon
+495,SBS Grand,8.5,3696.0,Coimbatore,18480.0,Very Good,Tamil Nadu,3696.0,Monsoon
+496,Olives Pleasant Stays,8.2,2202.0,Udhagamandalam,11011.0,Excellent,Tamil Nadu,2202.0,Monsoon
+497,Lemon Tree Hotel Coimbatore,8.5,6500.0,Coimbatore,32498.0,Excellent,Tamil Nadu,7275.0,Monsoon
+498,Avea Accommodation,8.5,2222.0,Madurai,11111.0,Excellent,Tamil Nadu,1954.0,Monsoon
+499,Hotel Sorrento Guest House,8.3,1680.0,Chennai,8400.0,Excellent,Tamil Nadu,1680.0,Monsoon
+500,Bloom Hub Guindy,9.2,9245.0,Chennai,46226.0,Excellent,Tamil Nadu,7895.0,Monsoon
+501,David Residency,8.6,3326.0,Madurai,16632.0,Excellent,Tamil Nadu,2372.0,Monsoon
+502,Grand Courtyard Business Hotel,9.0,4256.0,Chennai,21280.0,Excellent,Tamil Nadu,4199.0,Monsoon
+503,CM Residency,9.3,2722.0,Salem,13608.0,Excellent,Tamil Nadu,3954.0,Monsoon
+504,Arcot Woodlands Hotel,7.7,3817.0,Cuddalore,19085.0,Good,Tamil Nadu,4199.0,Monsoon
+505,Ranas Residency,7.7,3472.0,Tiruchirappalli,17360.0,Good,Tamil Nadu,2114.0,Monsoon
+506,Saibala Grand Airport Hotel,8.3,3360.0,Chennai,16800.0,Excellent,Tamil Nadu,2622.0,Monsoon
+507,Hotel Nahar Nilgiris,8.2,3528.0,Udhagamandalam,17640.0,Excellent,Tamil Nadu,4199.0,Monsoon
+508,Townhouse 1307 Coastal Grand Hotels and Resorts,8.8,2833.0,Coimbatore,14166.0,Excellent,Tamil Nadu,2096.0,Monsoon
+509,Hotel Cineplex,8.9,2406.0,Coimbatore,12028.0,Excellent,Tamil Nadu,3427.0,Monsoon
+510,Hotel Zain Grande,8.3,2268.0,Chennai,11340.0,Excellent,Tamil Nadu,1679.0,Monsoon
+511,Ranis Grand,7.7,2998.0,Coimbatore,14991.0,Good,Tamil Nadu,2404.0,Monsoon
+512,Hotel Anandhiram Heritage,7.5,2016.0,Nagapattinam,10080.0,Good,Tamil Nadu,2016.0,Monsoon
+513,Paras Mahal,7.9,3136.0,Vellore,15680.0,Good,Tamil Nadu,3137.0,Monsoon
+514,Sbk Park Inn,8.2,2800.0,Kanchipuram,14000.0,Very good,Tamil Nadu,2404.0,Monsoon
+515,Treebo Trend Vapr Guindy Ekkatuthangal,8.3,3503.0,Chennai,17517.0,Very good,Tamil Nadu,3503.0,Monsoon
+516,Hotel Srilakshmi,8.5,2240.0,Coimbatore,11200.0,Very Good,Tamil Nadu,1748.0,Monsoon
+517,Orion Residency,8.3,2218.0,Chennai,11088.0,Excellent,Tamil Nadu,1748.0,Monsoon
+518,Srm Hotel,7.8,5142.0,Thoothukudi,25711.0,Excellent,Tamil Nadu,3246.0,Monsoon
+519,Green Tree Hotel,8.3,2579.0,Chennai,12894.0,Very good,Tamil Nadu,2133.0,Monsoon
+520,Neemrana's Wallwood Garden,8.3,6574.0,Coonoor,32870.0,Very good,Tamil Nadu,6636.0,Monsoon
+521,HOTEL NIVETHA INN,8.5,2799.0,Coimbatore,13994.0,Very Good,Tamil Nadu,2799.0,Monsoon
+522,Vedic Village Sriperumbudur,7.8,4166.0,Sriperumbudur,20828.0,Good,Tamil Nadu,3312.0,Monsoon
+523,Hotel Gokulam Park,7.5,6101.0,Chennai,30506.0,Good,Tamil Nadu,3486.0,Monsoon
+524,Al Noor Palace,7.8,1635.0,Chennai,8173.0,Good,Tamil Nadu,1390.0,Monsoon
+525,Bruton resorts,7.6,2979.0,Kodaikanal,14896.0,Good,Tamil Nadu,2979.0,Monsoon
+526,Raj Park Hotel Chennai,7.5,3517.0,Chennai,20389.9,Good,Tamil Nadu,4745.0,Monsoon
+527,Mount Manor,8.3,3912.0,Chennai,19562.0,Excellent,Tamil Nadu,3743.0,Monsoon
+528,Season 4 Residences - Nungambakkam,7.5,3023.0,Chennai,15116.0,Good,Tamil Nadu,2184.0,Monsoon
+529,Hotel Grand Parkway,8.3,2800.0,Chennai,14000.0,Excellent,Tamil Nadu,2363.0,Monsoon
+530,Treebo Trend Windsor Heights,8.0,3535.0,Udhagamandalam,20389.9,Very good,Tamil Nadu,3535.0,Monsoon
+531,Maya Residency,7.9,3830.0,Tiruchirappalli,19152.0,Good,Tamil Nadu,3830.0,Monsoon
+532,"Alps Residency - A Bergamont Hotel, Krishnagiri",7.8,4474.0,Krishnagiri,22368.0,Good,Tamil Nadu,3425.0,Monsoon
+533,A and M Rooms and Residences,8.0,3808.0,Chennai,19040.0,Very good,Tamil Nadu,3327.0,Monsoon
+534,Coral Shelters Mattuthavani,8.4,3052.0,Madurai,15258.0,Very good,Tamil Nadu,2256.0,Monsoon
+535,Treebo Trend Tia Value,7.8,2676.0,Chennai,13378.0,Good,Tamil Nadu,2676.0,Monsoon
+536,SGRT Residency,8.3,2800.0,Vellore,14000.0,Very good,Tamil Nadu,2015.0,Monsoon
+537,Hotel Nk Grand Park Airport Hotel,7.6,2680.0,Chennai,20389.9,Good,Tamil Nadu,2924.0,Monsoon
+538,Vaigai Residency,7.7,2867.0,Cuddalore,14336.0,Excellent,Tamil Nadu,2237.0,Monsoon
+539,Pine Tree,7.8,3359.0,Kanchipuram,16794.0,Good,Tamil Nadu,3094.0,Monsoon
+540,FabHotel Prime Arunaachalaa Residency Mount Road,7.6,3939.0,Chennai,19694.0,Good,Tamil Nadu,2771.0,Monsoon
+541,Minas Manor,8.1,3248.0,Tiruchirappalli,16240.0,Excellent,Tamil Nadu,2993.0,Monsoon
+542,Victory Mansion,8.3,747.0,Chennai,3734.0,Excellent,Tamil Nadu,4199.0,Monsoon
+543,Neemrana's Coconut Alley,8.5,7515.0,Mayiladuthurai,37577.0,Excellent,Tamil Nadu,7078.0,Monsoon
+544,SSK Grand Kanchipuram,8.6,2839.0,Kanchipuram,14197.0,Excellent,Tamil Nadu,3183.0,Monsoon
+545,"Ginger Coimbatore Airport , Avinashi Road",8.5,3919.0,Coimbatore,19594.0,Very Good,Tamil Nadu,3919.0,Monsoon
+546,Staylite Suites,9.1,3696.0,Chennai,18480.0,Excellent,Tamil Nadu,3696.0,Monsoon
+547,Hotel Prince Gardens,8.5,3647.0,Coimbatore,18234.0,Very Good,Tamil Nadu,2916.0,Monsoon
+548,Hotel Ramtel inn,8.4,2932.0,Madurai,14658.0,Excellent,Tamil Nadu,2304.0,Monsoon
+549,Annai In Saravana Bhavan Fine Stay,7.5,3360.0,Nagapattinam,16800.0,Excellent,Tamil Nadu,4199.0,Monsoon
+550,Miot Grande,8.1,3817.0,Chennai,19085.0,Very good,Tamil Nadu,3261.0,Monsoon
+551,Raya's Grand,8.6,3500.0,Kumbakonam,17500.0,Excellent,Tamil Nadu,3500.0,Monsoon
+552,Itsy By Treebo - Kottaram Residency,7.8,2174.0,Udhagamandalam,10868.0,Good,Tamil Nadu,4199.0,Monsoon
+553,Season 4 Residences - Teynampet,8.3,2620.0,Chennai,13100.0,Excellent,Tamil Nadu,2287.0,Monsoon
+554,Green Meadows Resort,8.2,5391.0,Chennai,26954.0,Very good,Tamil Nadu,5814.0,Monsoon
+555,Comfort Hotels,8.5,2240.0,Coimbatore,11200.0,Very Good,Tamil Nadu,1747.0,Monsoon
+556,Hare Rama Hare Krishna,8.4,2990.0,Rameswaram,14952.0,Excellent,Tamil Nadu,2334.0,Monsoon
+557,FabHotel Blossoms Service Apartment,7.7,3498.0,Chennai,17490.0,Good,Tamil Nadu,3498.0,Monsoon
+558,The Leela Palace Chennai,9.3,22824.0,Chennai,114118.0,Excellent,Tamil Nadu,21120.0,Monsoon
+559,White Mint,7.7,3225.0,Yercaud,16124.0,Good,Tamil Nadu,4199.0,Monsoon
+560,Hotel Golden Gateway,7.8,2339.0,Vellore,11695.0,Good,Tamil Nadu,2025.0,Monsoon
+561,Ginger Tirupur,8.0,3359.0,Tirupur,16794.0,Excellent,Tamil Nadu,3107.0,Monsoon
+562,G3 Star Comfort,8.0,3920.0,Chennai,19600.0,Very good,Tamil Nadu,3920.0,Monsoon
+563,The Grand Regent,7.5,5388.0,Coimbatore,26938.0,Good,Tamil Nadu,9029.0,Monsoon
+564,The Thangam Grand,7.5,5061.0,Madurai,25307.0,Good,Tamil Nadu,3609.0,Monsoon
+565,HOTEL BLUEMOON,9.0,4190.0,Tirunelveli,20949.0,Excellent,Tamil Nadu,3270.0,Monsoon
+566,Treebo Trend Golden Swan Airport Free Pick & Drop,7.6,2943.0,Chennai,14716.0,Good,Tamil Nadu,3069.0,Monsoon
+567,"Red Fox Hotel, Trichy",8.3,6498.0,Tiruchirappalli,32488.0,Very good,Tamil Nadu,8583.0,Monsoon
+568,Treebo Trend Rithikha Inn Elite Chennai Trade Centre,7.7,2332.0,Chennai,11659.0,Good,Tamil Nadu,4199.0,Monsoon
+569,Hotel Grand Tree,7.6,3696.0,Coimbatore,18480.0,Good,Tamil Nadu,3714.0,Monsoon
+570,HOTEL ELITE,9.0,2095.0,Rameswaram,10477.0,Excellent,Tamil Nadu,1973.0,Monsoon
+571,Hotel Landmark,8.1,3112.0,Yelagiri,20389.9,Very good,Tamil Nadu,4089.0,Monsoon
+572,Treebo Trend Elan,7.6,2898.0,Chennai,14488.0,Good,Tamil Nadu,4199.0,Monsoon
+573,The Kings,7.6,5802.0,Chennai,29011.0,Good,Tamil Nadu,4874.0,Monsoon
+574,Avadale Kodaikanal - Stag Groups Not Allowed,9.4,3046.0,Kodaikanal,15232.0,Excellent,Tamil Nadu,3046.0,Monsoon
+575,Hotel Raj,7.6,2599.0,Thoothukudi,12995.0,Good,Tamil Nadu,2231.0,Monsoon
+576,Meya Beach Walk Hotel,8.5,3516.0,Mahabalipuram,17578.0,Excellent,Tamil Nadu,2685.0,Monsoon
+577,Bell Hotel Sivakasi,7.7,2846.0,Sivakasi,14231.0,Good,Tamil Nadu,2187.0,Monsoon
+578,Leisure Stays,8.3,3808.0,Chennai,19040.0,Excellent,Tamil Nadu,3256.0,Monsoon
+579,FabHotel Welcare Emerald Egmore,9.1,11192.0,Chennai,55960.0,Excellent,Tamil Nadu,11210.0,Monsoon
+580,Chidambara Vilas - A Luxury Heritage Resort,9.2,11730.0,Karaikudi,58651.0,Excellent,Tamil Nadu,10916.0,Monsoon
+581,Redfox Cinemascope An Apart Hotel,8.1,2918.0,Chennai,14590.0,Very good,Tamil Nadu,3332.0,Monsoon
+582,Hotel Chenthur Park,7.7,4448.0,Coimbatore,22242.0,Good,Tamil Nadu,5795.0,Monsoon
+583,Redwoods Hotels and Resorts,8.3,3920.0,Chennai,19600.0,Excellent,Tamil Nadu,4199.0,Monsoon
+584,Bodhiwoods Resorts,8.4,8195.0,Mahabalipuram,40974.0,Very good,Tamil Nadu,4199.0,Monsoon
+585,Treebo Trend Palmyra Grand Suites,8.3,4154.0,Tirunelveli,20771.0,Very good,Tamil Nadu,3261.0,Monsoon
+586,Ssk Residency,8.2,2059.0,Kanchipuram,10297.0,Excellent,Tamil Nadu,1916.0,Monsoon
+587,Hotel M Grand,7.5,3893.0,Chennai,19467.0,Good,Tamil Nadu,3736.0,Monsoon
+588,Hotel Marina Inn Egmore Chennai,7.7,2904.0,Chennai,14518.0,Good,Tamil Nadu,2593.0,Monsoon
+589,Itsy By Treebo - Elite Inn,7.5,2555.0,Chennai,12773.0,Good,Tamil Nadu,4199.0,Monsoon
+590,"Copper Leaf Hotels, Tirunelveli",8.9,5336.0,Tirunelveli,26681.0,Excellent,Tamil Nadu,4624.0,Monsoon
+591,Shri Subham Residency,7.8,2304.0,Tiruchirappalli,11520.0,Good,Tamil Nadu,2794.0,Monsoon
+592,Le Grace Annasalai,8.9,2137.0,Chennai,10684.0,Excellent,Tamil Nadu,1496.0,Monsoon
+593,Fabhotel Sri Krishna Residency Airport,7.5,2558.0,Chennai,12788.0,Good,Tamil Nadu,2194.0,Monsoon
+594,Hotel Dusk and Dawn,8.4,2903.0,Rameswaram,14515.0,Excellent,Tamil Nadu,2577.0,Monsoon
+595,Eldoris (Sea Side Boutique ),7.6,3388.0,Chennai,16942.0,Good,Tamil Nadu,4199.0,Monsoon
+596,Poppys Tower Tiruppur,7.5,2891.0,Tirupur,14453.0,Good,Tamil Nadu,3632.0,Monsoon
+597,Greens Gate Chennai,8.3,2304.0,Chennai,11522.0,Excellent,Tamil Nadu,1692.0,Monsoon
+598,Poppys Pleasant Stay,8.6,5486.0,Kodaikanal,27432.0,Excellent,Tamil Nadu,4342.0,Monsoon
+599,Ganpat Grand,8.2,3968.0,Palani,19840.0,Very good,Tamil Nadu,3467.0,Monsoon
+600,Hotel Preethi Palace,8.2,1641.0,Udhagamandalam,8204.0,Excellent,Tamil Nadu,1393.0,Monsoon
+601,"Vinayaga Inn by Poppys, Ooty",8.5,3681.0,Udhagamandalam,20389.9,Excellent,Tamil Nadu,4785.0,Monsoon
+602,"Aakash Rooms and Cottages,",8.7,1730.0,Udhagamandalam,8650.0,Excellent,Tamil Nadu,1905.0,Monsoon
+603,Treebo Trend Eco Stay Nandanam,8.3,2443.0,Chennai,12213.0,Excellent,Tamil Nadu,4199.0,Monsoon
+604,Udupi International,8.0,2662.0,Kanyakumari,13311.0,Very good,Tamil Nadu,3062.0,Monsoon
+605,Dhanunjayas Luxury Hotel,8.1,1886.0,Hosur,9430.0,Excellent,Tamil Nadu,2776.0,Monsoon
+606,Hotel Amoha,7.7,2238.0,Palani,11190.0,Good,Tamil Nadu,1753.0,Monsoon
+607,Kolaahalam Mainland Resorts & Spa,8.0,4694.0,Yercaud,23469.0,Very good,Tamil Nadu,4428.0,Monsoon
+608,Hotel orchard inn,7.6,1036.0,Velankanni,20389.9,Excellent,Tamil Nadu,1247.0,Monsoon
+609,Darshan Resorts Pvt ltd,7.8,3679.0,Udhagamandalam,18396.0,Good,Tamil Nadu,3920.0,Monsoon
+610,MM,7.6,2562.0,Kanchipuram,12809.0,Good,Tamil Nadu,4199.0,Monsoon
+611,Grand Continent A Sarovar Portico Hotel,8.6,4183.0,Hosur,20913.0,Excellent,Tamil Nadu,4011.0,Monsoon
+612,High Point Serviced Apartment,8.0,3822.0,Tiruchirappalli,19108.0,Very good,Tamil Nadu,2461.0,Monsoon
+613,Chettinadu Court- HERITAGE VIEW,8.1,4840.0,Karaikudi,24200.0,Very good,Tamil Nadu,3767.0,Monsoon
+614,Hotel Villa Highnest - Oragadam -Sriperumbudur,7.8,2888.0,Sriperumbudur,14442.0,Good,Tamil Nadu,2694.0,Monsoon
+615,The Zen Park Coimbatore,9.0,3914.0,Coimbatore,19572.0,Excellent,Tamil Nadu,3143.0,Monsoon
+616,KBS Sree Paradise Kodai,8.7,1800.0,Kodaikanal,9001.0,Excellent,Tamil Nadu,1865.0,Monsoon
+617,Hills,8.3,3195.0,Yelagiri,15977.0,Excellent,Tamil Nadu,3842.0,Monsoon
+618,"Kodai Resort Hotel, Kodaikanal",8.6,4925.0,Kodaikanal,24623.0,Excellent,Tamil Nadu,6399.0,Monsoon
+619,Bhimaas,8.0,2321.0,Chennai,11606.0,Very good,Tamil Nadu,2142.0,Monsoon
+620,"Four Points by Sheraton Chennai, Velachery",9.4,9086.0,Chennai,45428.0,Excellent,Tamil Nadu,11642.0,Monsoon
+621,Madras Inn - Alwarpet,8.9,2413.0,Chennai,12065.0,Excellent,Tamil Nadu,2005.0,Monsoon
+622,Hotel Viswa Grand,8.0,3649.0,Kanyakumari,18245.0,Very good,Tamil Nadu,4200.0,Monsoon
+623,Mango Hill Shola Ooty,8.9,9152.0,Udhagamandalam,45762.0,Excellent,Tamil Nadu,7792.0,Monsoon
+624,CR Grande,8.3,3432.0,Madurai,17160.0,Very good,Tamil Nadu,3920.0,Monsoon
+625,La Flora Amberley Resort,8.2,9545.0,Udhagamandalam,47726.0,Excellent,Tamil Nadu,4199.0,Monsoon
+626,Park Plaza Chennai,7.5,4168.0,Chennai,20841.0,Good,Tamil Nadu,4199.0,Monsoon
+627,Sri Krishna Palace,7.9,3277.0,Hosur,16383.0,Good,Tamil Nadu,2342.0,Monsoon
+628,MMD Grande A Boutique Hotel,8.9,3238.0,Thanjavur,16189.0,Excellent,Tamil Nadu,2482.0,Monsoon
+629,Sri Sakthi,8.2,2695.0,Tirupur,13475.0,Very good,Tamil Nadu,4199.0,Monsoon
+630,V7,8.3,2651.0,Chennai,13255.0,Excellent,Tamil Nadu,3243.0,Monsoon
+631,Padmam Hotel,8.4,4831.0,Madurai,24154.0,Excellent,Tamil Nadu,1520.0,Monsoon
+632,Jai,8.3,2730.0,Kodaikanal,13649.0,Very good,Tamil Nadu,2353.0,Monsoon
+633,Zip By Spree Hotels Surabi International Vellore,7.9,3454.0,Vellore,17272.0,Good,Tamil Nadu,3219.0,Monsoon
+634,Silver Oak resorts,8.8,2016.0,Coonoor,10080.0,Excellent,Tamil Nadu,2016.0,Monsoon
+635,Hotel Mountview Heritage,7.5,4478.0,Udhagamandalam,22388.0,Good,Tamil Nadu,4199.0,Monsoon
+636,O' Nila Resort,8.3,1640.0,Yelagiri,8201.0,Very good,Tamil Nadu,2912.0,Monsoon
+637,Kumaran Residency,8.5,2271.0,Mayiladuthurai,11354.0,Very Good,Tamil Nadu,1995.0,Monsoon
+638,Oceanside Mahabalipuram - With Beach access,9.0,2933.0,Mahabalipuram,14665.0,Excellent,Tamil Nadu,2168.0,Monsoon
+639,Nestlay Rooms Vanagaram,8.3,2808.0,Chennai,20389.9,Excellent,Tamil Nadu,4032.0,Monsoon
+640,FabHotel Bairav Grand Aarapalayam Bus Terminus,8.5,2589.0,Madurai,12947.0,Excellent,Tamil Nadu,4199.0,Monsoon
+641,Hotel Sun Rock,8.1,1107.0,Kanyakumari,5537.0,Excellent,Tamil Nadu,2463.0,Monsoon
+642,JC Woodville Manor,8.4,1114.0,Kodaikanal,20389.9,Excellent,Tamil Nadu,1518.0,Monsoon
+643,FabHotel Rithikha Inn Porur,8.9,2135.0,Chennai,10674.0,Excellent,Tamil Nadu,3444.0,Monsoon
+644,Avn Homestay,9.8,2467.0,Kodaikanal,12335.0,Excellent,Tamil Nadu,3920.0,Monsoon
+645,Tranqville Resorts,8.6,3505.0,Udhagamandalam,17524.0,Excellent,Tamil Nadu,4610.0,Monsoon
+646,RR Mount Elite Suites,8.8,2694.0,Chennai,13469.0,Excellent,Tamil Nadu,3759.0,Monsoon
+647,Hotel Sharma Residency Chennai Egmore,8.3,1403.0,Chennai,20389.9,Excellent,Tamil Nadu,4199.0,Monsoon
+648,Treebo Trend Pine Tree,8.8,2416.0,Chennai,12078.0,Excellent,Tamil Nadu,4199.0,Monsoon
+649,Hotel Brindavan Elite,8.1,3326.0,Rameswaram,20389.9,Very good,Tamil Nadu,4256.0,Monsoon
+650,FabHotel Prince Park Arcot Road,8.0,2022.0,Vellore,10111.0,Excellent,Tamil Nadu,2041.0,Monsoon
+651,Hotel Oxina Lygon,8.3,3163.0,Tiruchirappalli,15813.0,Very good,Tamil Nadu,9637.0,Monsoon
+652,ASR Parklane,8.4,3882.0,Hosur,20389.9,Very good,Tamil Nadu,4829.0,Monsoon
+653,Hotel Chennai Gate,8.3,2078.0,Chennai,20389.9,Excellent,Tamil Nadu,2667.0,Monsoon
+654,THE SEASHORE HOTEL,8.1,3177.0,Kanyakumari,15887.0,Very good,Tamil Nadu,6542.0,Monsoon
+655,Sundar Lodge,8.7,1518.0,Jolarpet,7590.0,Excellent,Tamil Nadu,1179.0,Monsoon
+656,Hotel Temple City,9.1,1687.0,Madurai,8433.0,Very Good,Tamil Nadu,1318.0,Monsoon
+657,Sunpark Grand,8.2,4411.0,Udhagamandalam,22056.0,Excellent,Tamil Nadu,3438.0,Monsoon
+658,Queens Inn,7.6,4026.0,Velankanni,20132.0,Good,Tamil Nadu,3711.0,Monsoon
+659,smile stone individual cottage,8.2,1647.0,Udhagamandalam,8237.0,Excellent,Tamil Nadu,4199.0,Monsoon
+660,Manjhi Residency,8.1,3311.0,Tiruchirappalli,16554.0,Excellent,Tamil Nadu,2111.0,Monsoon
+661,Hillfort Hotels & Resorts Yelagiri,9.0,2372.0,Yelagiri,11862.0,Excellent,Tamil Nadu,3462.0,Monsoon
+662,Chennai guest house,8.3,2460.0,Chennai,12298.0,Excellent,Tamil Nadu,2331.0,Monsoon
+663,Hotel DSF Grand Plaza,8.0,3871.0,Thoothukudi,19354.0,Very good,Tamil Nadu,5496.0,Monsoon
+664,Cholai Resorts & Hotels,7.7,3151.0,Yercaud,15755.0,Good,Tamil Nadu,2451.0,Monsoon
+665,Tulips Village Resorts,8.2,2857.0,Udhagamandalam,14283.0,Excellent,Tamil Nadu,2560.0,Monsoon
+666,Annai Resorts & Spa,8.4,12351.0,Kanyakumari,61755.0,Very good,Tamil Nadu,14581.0,Monsoon
+667,Ulo Chellam Residency,8.3,1396.0,Chennai,6979.0,Excellent,Tamil Nadu,4199.0,Monsoon
+668,Hotel Royal Elite Madurai,8.4,1846.0,Madurai,9230.0,Excellent,Tamil Nadu,3136.0,Monsoon
+669,Hotel Susee Park,8.1,1445.0,Tiruchirappalli,7227.0,Excellent,Tamil Nadu,2854.0,Monsoon
+670,New Cape,7.7,2229.0,Kanyakumari,11144.0,Good,Tamil Nadu,1752.0,Monsoon
+671,Siva Residency,7.9,1320.0,Mahabalipuram,6602.0,Good,Tamil Nadu,1168.0,Monsoon
+672,Hotel Temple City,9.1,2352.0,Kumbakonam,11760.0,Excellent,Tamil Nadu,4199.0,Monsoon
+673,S Hotels Chennai,8.0,6009.0,Chennai,30043.0,Very good,Tamil Nadu,9817.0,Monsoon
+674,Nala Residency,8.5,2340.0,Tiruvannamalai,11699.0,Very Good,Tamil Nadu,2520.0,Monsoon
+675,Hotel Shelter,8.3,6160.0,Chennai,30800.0,Excellent,Tamil Nadu,5810.0,Monsoon
+676,Twin Tree,8.6,4381.0,Nilgiris,21904.0,Excellent,Tamil Nadu,5489.0,Monsoon
+677,Hotel Preethi Classic Towers,7.9,4881.0,Udhagamandalam,20389.9,Good,Tamil Nadu,5837.0,Monsoon
+678,MGM Whispering Wind's Yelagiri,8.4,7637.0,Yelagiri,38184.0,Very good,Tamil Nadu,10829.0,Monsoon
+679,Five Falls Resort - Courtallam,8.7,3920.0,Tirunelveli,19600.0,Very Good,Tamil Nadu,5976.0,Monsoon
+680,Arudra Residency,8.5,2525.0,Tiruvannamalai,12626.0,Excellent,Tamil Nadu,3984.0,Monsoon
+681,Varuna Banquets & Resort,8.3,2247.0,Chennai,11235.0,Excellent,Tamil Nadu,2864.0,Monsoon
+682,Hotel Greens,7.9,1904.0,Chennai,9520.0,Good,Tamil Nadu,1904.0,Monsoon
+683,OYO The Mangrove Wood Residency,8.3,1719.0,Chennai,8594.0,Excellent,Tamil Nadu,1719.0,Monsoon
+684,Jyothi Suites,8.7,2801.0,Tiruchirappalli,14005.0,Excellent,Tamil Nadu,3982.0,Monsoon
+685,Ponmurugan Residency,8.0,1573.0,Kodaikanal,7863.0,Very good,Tamil Nadu,1680.0,Monsoon
+686,Seven Roads Grand Inn,7.7,1694.0,Kodaikanal,8472.0,Good,Tamil Nadu,4199.0,Monsoon
+687,Grand Continent T Nagar,8.3,4131.0,Chennai,20389.9,Excellent,Tamil Nadu,4199.0,Monsoon
+688,Mountain Retreat - A Hill Country Resort,8.1,3935.0,Udhagamandalam,20389.9,Very good,Tamil Nadu,4940.0,Monsoon
+689,Super Hotel O Eswar Guest House,8.3,1595.0,Chennai,7974.0,Excellent,Tamil Nadu,1595.0,Monsoon
+690,De Rock Jungle Living Resort,8.2,3625.0,Coonoor,20389.9,Very good,Tamil Nadu,4479.0,Monsoon
+691,Pears Tree,8.3,2821.0,Kodaikanal,20389.9,Very good,Tamil Nadu,3802.0,Monsoon
+692,Annamalai,7.7,2045.0,Tiruchirappalli,10224.0,Good,Tamil Nadu,4199.0,Monsoon
+693,Treebo Trend D Grand,8.4,2194.0,Madurai,10969.0,Excellent,Tamil Nadu,2198.0,Monsoon
+694,Park Avenue Hotel Nungambakkam,7.7,3213.0,Chennai,20389.9,Good,Tamil Nadu,5022.0,Monsoon
+695,Kluney Manor Ooty,7.9,3479.0,Udhagamandalam,20389.9,Good,Tamil Nadu,4326.0,Monsoon
+696,HOTEL SRI VAARI RESIDENCY,7.6,2352.0,Hosur,11760.0,Good,Tamil Nadu,1664.0,Monsoon
+697,Samudra Residency,8.3,1848.0,Chennai,9240.0,Excellent,Tamil Nadu,1848.0,Monsoon
+698,Mist View,7.6,2192.0,Kodaikanal,10959.0,Good,Tamil Nadu,2299.0,Monsoon
+699,Bouganvilla,8.2,4659.0,Nilgiris,23296.0,Very good,Tamil Nadu,6300.0,Monsoon
+700,Elephant Valley Eco Farm Hotel,8.0,3162.0,Kodaikanal,20389.9,Very good,Tamil Nadu,3950.0,Monsoon
+701,HRS Budget Rooms,8.2,1331.0,Udhagamandalam,6653.0,Excellent,Tamil Nadu,1210.0,Monsoon
+702,Hotel Jump In & Out,8.5,3796.0,Coimbatore,18982.0,Very Good,Tamil Nadu,4606.0,Monsoon
+703,Alwoodland Residency,8.4,3254.0,Udhagamandalam,16270.0,Very good,Tamil Nadu,2541.0,Monsoon
+704,Hotel Golden City,8.2,2464.0,Udhagamandalam,12320.0,Excellent,Tamil Nadu,2464.0,Monsoon
+705,Floressa Randa Elevation,7.9,3145.0,Chennai,15723.0,Good,Tamil Nadu,4199.0,Monsoon
+706,Sanctuary Boutique Ooty,8.8,3855.0,Udhagamandalam,19275.0,Excellent,Tamil Nadu,5204.0,Monsoon
+707,Hotel Grand Gaayatris,8.3,1903.0,Chennai,9515.0,Excellent,Tamil Nadu,1572.0,Monsoon
+708,Grand Continent Premiere - T Nagar,8.3,6451.0,Chennai,32256.0,Excellent,Tamil Nadu,6451.0,Monsoon
+709,Fabhotel Olive Inn,8.8,2360.0,Chennai,11799.0,Excellent,Tamil Nadu,4199.0,Monsoon
+710,Sasti Lodge Palani,8.0,1155.0,Palani,5773.0,Excellent,Tamil Nadu,843.0,Monsoon
+711,La Vivanta Hotel,8.4,2993.0,Madurai,14963.0,Excellent,Tamil Nadu,3754.0,Monsoon
+712,Le Yercaud,9.2,3481.0,Yercaud,17405.0,Excellent,Tamil Nadu,9004.0,Monsoon
+713,Prince Park,8.0,2016.0,Vellore,10080.0,Excellent,Tamil Nadu,4199.0,Monsoon
+714,Hotel Rainforest ooty,7.8,2215.0,Udhagamandalam,20389.9,Good,Tamil Nadu,4199.0,Monsoon
+715,River Valley Resort,7.6,2689.0,Udhagamandalam,13443.0,Good,Tamil Nadu,2668.0,Monsoon
+716,Hotel The Grange,8.2,3908.0,Udhagamandalam,19538.0,Very good,Tamil Nadu,5712.0,Monsoon
+717,Sri Silver Inn,8.0,1740.0,Yercaud,8699.0,Very good,Tamil Nadu,1345.0,Monsoon
+719,Jungle Hut,9.3,12961.0,Nilgiris,64804.0,Excellent,Tamil Nadu,13311.0,Monsoon
+720,Goldennest,7.6,1900.0,Yelagiri,9501.0,Good,Tamil Nadu,1467.0,Monsoon
+721,Grand Palace,8.3,8064.0,Chennai,40320.0,Excellent,Tamil Nadu,4199.0,Monsoon
+722,RK Holiday Home,8.2,1944.0,Udhagamandalam,9722.0,Excellent,Tamil Nadu,1944.0,Monsoon
+723,Hotel Le Mint OMR,7.6,2361.0,Chennai,11807.0,Good,Tamil Nadu,2361.0,Monsoon
+724,Sdm Golden Tower,8.1,4041.0,Rameswaram,20207.0,Very good,Tamil Nadu,7269.0,Monsoon
+725,Sea Gate Ecr Rooms,9.4,2624.0,Mahabalipuram,13119.0,Excellent,Tamil Nadu,4199.0,Monsoon
+726,Lance 21 - Ashok Nagar,8.3,3589.0,Chennai,17945.0,Excellent,Tamil Nadu,4199.0,Monsoon
+727,Royal Green Accommodation,8.3,1814.0,Chennai,9072.0,Excellent,Tamil Nadu,1210.0,Monsoon
+728,Sree Devi,8.1,2544.0,Madurai,12718.0,Very good,Tamil Nadu,4199.0,Monsoon
+729,Hostel Jerusalem,8.4,2127.0,Kodaikanal,10634.0,Excellent,Tamil Nadu,4199.0,Monsoon
+730,Hotel Comfort Kanchipuram,8.8,2628.0,Kanchipuram,13139.0,Excellent,Tamil Nadu,3887.0,Monsoon
+732,SPOT ON 41096 G.Lawrence Lodge,8.1,1915.0,Kanyakumari,9576.0,Excellent,Tamil Nadu,951.0,Monsoon
+733,AN Hotel chennai airport,8.3,2124.0,Chennai,10619.0,Excellent,Tamil Nadu,2124.0,Monsoon
+734,Hotel Shaans,7.5,2931.0,Tiruchirappalli,20389.9,Good,Tamil Nadu,3622.0,Monsoon
+735,OYO 4584 India Gate,8.3,2024.0,Chennai,10121.0,Excellent,Tamil Nadu,4199.0,Monsoon
+736,Mango Hill Central Ooty,7.9,4031.0,Udhagamandalam,20156.0,Good,Tamil Nadu,4535.0,Monsoon
+737,Golden Fruits Business Suites,8.0,3859.0,Chennai,19295.0,Very good,Tamil Nadu,5082.0,Monsoon
+738,Fairstay,8.2,2282.0,Udhagamandalam,11412.0,Very good,Tamil Nadu,4199.0,Monsoon
+739,Blossoms Hotel & Service Apartments,7.7,3688.0,Chennai,18439.0,Good,Tamil Nadu,5002.0,Monsoon
+740,La Four Seasons,9.0,5202.0,Yercaud,26010.0,Excellent,Tamil Nadu,6671.0,Monsoon
+741,Hotel I-Way Residency Perungudi,8.3,2688.0,Chennai,13440.0,Excellent,Tamil Nadu,2335.0,Monsoon
+742,180 Mciver Villa,7.6,5788.0,Coonoor,28942.0,Good,Tamil Nadu,7826.0,Monsoon
+743,Delightz Inn,8.6,3794.0,Udhagamandalam,18968.0,Excellent,Tamil Nadu,3301.0,Monsoon
+744,Drizzle Drop Inn,8.2,3584.0,Udhagamandalam,17920.0,Excellent,Tamil Nadu,2867.0,Monsoon
+745,Poppys Vista Hotel,8.2,3830.0,Tirupur,19152.0,Very good,Tamil Nadu,3830.0,Monsoon
+746,Convastay Greams Road,8.3,2576.0,Chennai,12880.0,Excellent,Tamil Nadu,2431.0,Monsoon
+747,Taj Wellington Mews Chennai,9.3,13806.0,Chennai,69030.0,Excellent,Tamil Nadu,13806.0,Monsoon
+748,The Aviary- Greenbird,9.9,11230.0,Hyderabad,56150.0,Excellent,telangana,3254.0,nan
+749,Holiday Inn Express Hyderabad Hitec City By Ihg,7.7,5274.0,Hyderabad,26372.0,Good,telangana,7212.0,nan
+750,A Home At Picturesque ”banjara Hills,9.6,8075.0,Hyderabad,40376.0,Excellent,telangana,3254.0,nan
+751,Courtyard Hyderabad,8.8,11576.0,Hyderabad,57879.0,Excellent,telangana,11918.0,nan
+752,"4-bhk Penthouse , Banjarahills Road No 9 Stonehome",9.5,12021.0,Hyderabad,60107.0,Excellent,telangana,3254.0,nan
+753,Holiday Inn Express Hyderabad Banjara Hills By Ihg,8.5,3527.0,Mahbubnagar,17633.0,Very Good,telangana,3527.0,nan
+754,5bhk Spacious Suites In Chandrayangutta By (s&s),9.3,4917.0,Hyderabad,24587.0,Excellent,telangana,3254.0,nan
+755,The Park Hyderabad,8.5,9534.0,Hyderabad,47672.0,Excellent,telangana,7722.0,nan
+756,Bms Guest House For Families In Hyderabad Lux 2bhk,9.6,4326.0,Hyderabad,21629.0,Excellent,telangana,3254.0,nan
+757,Aditya Hometel,7.7,4425.0,Mahbubnagar,22125.0,Good,telangana,4127.0,nan
+758,"Modern & Cozy 3bhk, Madhapur",9.7,8826.0,Hyderabad,44129.0,Excellent,telangana,3254.0,nan
+759,Ellaa Hotel Gachibowli,8.4,7056.0,Hyderabad,35279.0,Very good,telangana,6315.0,nan
+760,"Stylish 3bhk In Kavuri Hills, Madhapur",9.7,8407.0,Hyderabad,42035.0,Excellent,telangana,3254.0,nan
+761,Hyatt Place Hyderabad Banjara Hills,8.7,9978.0,Hyderabad,49890.0,Excellent,telangana,8980.0,nan
+762,The Cozy Nest,9.1,6936.0,Hyderabad,34682.0,Excellent,telangana,3254.0,nan
+763,Radisson Blu Plaza Hotel Hyderabad Banjara Hills,8.7,6379.0,Hyderabad,31895.0,Excellent,telangana,10255.0,nan
+764,Spacious 4-bedroom Apt Ideal For Small Gatherings,9.4,5045.0,Hyderabad,25224.0,Excellent,telangana,3254.0,nan
+765,Marigold By Greenpark,9.3,7480.0,Hyderabad,37402.0,Excellent,telangana,10726.0,nan
+766,West Front Shaakya Lavish Hygiene Three Bhk Flats,9.5,9331.0,Hyderabad,46657.0,Excellent,telangana,3254.0,nan
+767,The Leela Hyderabad Banjara Hills,9.2,18272.0,Hyderabad,91362.0,Excellent,telangana,20650.0,nan
+768,Chic Retreat: Luxe 2bhk In Hyd,9.0,4482.0,Hyderabad,22409.0,Excellent,telangana,3254.0,nan
+769,Hotel Hyderabad Grand,8.1,4122.0,Hyderabad,17420.0,Very good,telangana,5203.0,nan
+770,Amber Haus - Elegant & Cozy 3bhk In The City,9.7,6945.0,Hyderabad,34726.0,Excellent,telangana,3254.0,nan
+771,Itsy By Treebo - Infinity Hitech City,8.2,1422.0,Hyderabad,7111.0,Very good,telangana,1422.0,nan
+772,Leelegant-premium 3bhk@banjara Hills Rd 12,9.8,11230.0,Hyderabad,56150.0,Excellent,telangana,3254.0,nan
+773,The Golkonda Hotel,8.3,7486.0,Hyderabad,37428.0,Very good,telangana,6957.0,nan
+774,Jade Haus - Elegant 2bhk With Relaxing Balcony,9.6,5937.0,Hyderabad,29686.0,Excellent,telangana,3254.0,nan
+775,Best Western Ashoka,8.1,4722.0,Hyderabad,23608.0,Very good,telangana,4722.0,nan
+776,Classic Haus - Brand New 3bhk Apartment,9.6,6945.0,Hyderabad,34726.0,Excellent,telangana,3254.0,nan
+777,Mercure Hyderabad KCP,8.9,7884.0,Hyderabad,39421.0,Excellent,telangana,7884.0,nan
+778,URBAN HAUS - New 2-Bedroom Apartment,9.8,5937.0,Hyderabad,29686.0,Excellent,telangana,3254.0,nan
+779,Hotel Fortune Hyderabad Airport Zone,8.6,2688.0,Hyderabad,13438.0,Very Good,telangana,2066.0,nan
+780,Bms Guest House For Families In Hyderabad Lux 2bhk,9.8,5675.0,Hyderabad,28377.0,Excellent,telangana,3254.0,nan
+781,New Hotel Suhail,8.1,3287.0,Hyderabad,16436.0,Very good,telangana,2428.0,nan
+782,AZTEC HAUS - New 3BHK Apartment,9.8,6945.0,Hyderabad,34726.0,Excellent,telangana,3254.0,nan
+783,Townhouse RCC PARK VIEW INN,9.3,1825.0,Hyderabad,9125.0,Excellent,telangana,1825.0,nan
+784,Super Collection O Sri Balaji Luxury rooms,8.5,1583.0,Mahbubnagar,7913.0,Very Good,telangana,1583.0,nan
+785,FabHotel Pride Inn Financia - Gachibowli,8.0,2021.0,Hyderabad,17420.0,Very good,telangana,2037.0,nan
+786,FabHotel Namaha Suites,8.6,2039.0,Hyderabad,10193.0,Very Good,telangana,3073.0,nan
+787,Treebo Trend Address Inn Jubilee Hills,8.0,2065.0,Hyderabad,10324.0,Very good,telangana,2065.0,nan
+788,FabHotel Opal Residency,8.0,1454.0,Hyderabad,7269.0,Very good,telangana,1454.0,nan
+789,OYO Flagship HOTEL SS ELITE,8.6,1657.0,Karimnagar,8287.0,Very Good,telangana,1657.0,nan
+790,Mango Suites Viera,8.3,3702.0,Hyderabad,18511.0,Very good,telangana,2744.0,nan
+791,Super OYO SilverKey 79803 Qualia Miyapur,8.5,1596.0,Mahbubnagar,7981.0,Very Good,telangana,1596.0,nan
+792,"Super OYO JNTU college Near LULU mall, KPHB Colony.",8.5,1564.0,Mahbubnagar,7820.0,Very Good,telangana,1564.0,nan
+793,Willow The Villa,8.9,5595.0,Hyderabad,27977.0,Excellent,telangana,3254.0,nan
+794,La Serene,8.2,4928.0,Hyderabad,24640.0,Very good,telangana,4375.0,nan
+795,FabHotel Dharani Grand - Nr Mamata Medical College,7.8,1820.0,Khammam,9100.0,Good,telangana,1820.0,nan
+796,The Art Boutique,8.5,5088.0,Mahbubnagar,25439.0,Very Good,telangana,3036.0,nan
+797,Super Townhouse 176 Rajdhani Residency,8.6,2003.0,Hyderabad,10016.0,Very Good,telangana,2003.0,nan
+798,Hotel O Grand Brundavan,8.6,1940.0,Hyderabad,9702.0,Very Good,telangana,3254.0,nan
+799,Super Collection O Jubilee Banjara Suites,8.6,1580.0,Hyderabad,7899.0,Very Good,telangana,1580.0,nan
+800,Collection O SSR Royal Suites,8.6,1442.0,Hyderabad,7208.0,Very Good,telangana,1442.0,nan
+801,Fairfield by Marriott Hyderabad Gachibowli,8.2,15119.0,Mahbubnagar,65432.0,Very good,telangana,3254.0,nan
+802,Collection O 9796 Hotel Alekhya Residency,8.6,1567.0,Hyderabad,7836.0,Very Good,telangana,1567.0,nan
+803,Fabhotel Golden Hitech,8.9,2075.0,Hyderabad,10374.0,Excellent,telangana,2092.0,nan
+804,Trip Shelters,8.7,1996.0,Mahbubnagar,9979.0,Excellent,telangana,3254.0,nan
+805,Super Townhouse QUALIA ELITE S R NAGAR,9.3,2142.0,Hyderabad,10712.0,Excellent,telangana,2142.0,nan
+806,Golden Hive Madhapur Near Shilparamam,7.5,1708.0,Hyderabad,8541.0,Good,telangana,1708.0,nan
+807,FabHotel WR Grand- Nr Citi Neuro Centre- Banjara Hills,8.4,2041.0,Hyderabad,10206.0,Very good,telangana,3254.0,nan
+808,Super Capital O Hotel Vaishnavi,8.6,1918.0,Hyderabad,9589.0,Very Good,telangana,1970.0,nan
+809,OYO KSL Guest House,8.6,1784.0,Karimnagar,8919.0,Very Good,telangana,1784.0,nan
+810,OYO Flagship Hotel Sridhar,8.0,1466.0,Khammam,7331.0,Excellent,telangana,1466.0,nan
+811,Townhouse Lakdikapul,8.4,2478.0,Hyderabad,12392.0,Very good,telangana,2255.0,nan
+812,Treebo Trend Virat Residency - US Consulate,8.8,2111.0,Mahbubnagar,10557.0,Excellent,telangana,2111.0,nan
+813,Hotel Sitara Grand L.B. Nagar,7.7,4274.0,Hyderabad,21370.0,Good,telangana,3357.0,nan
+814,Super OYO Flagship Hotel Surya Residency,7.7,2077.0,Hyderabad,10386.0,Good,telangana,2077.0,nan
+815,Super Collection O QUALIA PRIME HOTEL NEAR NEXUS MALL,7.8,1948.0,Mahbubnagar,9741.0,Good,telangana,1948.0,nan
+816,Super Hotel O Ss Suites,8.5,1653.0,Mahbubnagar,8266.0,Very Good,telangana,1653.0,nan
+817,FabHotel Pearl City HiTech City,8.1,2604.0,Hyderabad,13020.0,Very good,telangana,3254.0,nan
+818,Lemonridge Hotels Kukatpally,7.6,4222.0,Hyderabad,21108.0,Good,telangana,2962.0,nan
+820,SKYLINE CoLive,9.0,2239.0,Mahbubnagar,11194.0,Excellent,telangana,2239.0,nan
+821,FabHotel Limestone Aura,8.6,2720.0,Hyderabad,13601.0,Very Good,telangana,3254.0,nan
+822,Hotel Sai Prakash,8.6,2165.0,Hyderabad,10825.0,Very Good,telangana,1750.0,nan
+823,Hotel Peacock Pride,7.7,3278.0,Karimnagar,16390.0,Good,telangana,2294.0,nan
+824,Townhouse 196 De Alphabet,7.6,2028.0,Hyderabad,10139.0,Good,telangana,2028.0,nan
+825,Suprabhat Residency,7.5,2140.0,Secunderabad,10698.0,Good,telangana,1660.0,nan
+826,OYO Hotel Regal Near Paradise Circle,8.6,1713.0,Hyderabad,8567.0,Very Good,telangana,1713.0,nan
+827,OYO Raja Residency Near Snow World,8.6,1462.0,Hyderabad,7312.0,Very Good,telangana,1462.0,nan
+828,FabHotel Serenity,8.2,2232.0,Hyderabad,11160.0,Very good,telangana,2232.0,nan
+829,Abode Stayz Service Apartments,8.5,2188.0,Mahbubnagar,10941.0,Excellent,telangana,2188.0,nan
+830,Super Townhouse Kothapet Formerly Surabhi Elite,8.6,2718.0,Hyderabad,13590.0,Excellent,telangana,2397.0,nan
+831,Super Capital O Sri Suprabhat Grand Near Kachiguda Railway Station,8.5,2112.0,Hyderabad,10561.0,Excellent,telangana,2112.0,nan
+832,"Lemon Tree Hotel, Banjara Hills, Hyderabad",8.5,9852.0,Hyderabad,49258.0,Excellent,telangana,8711.0,nan
+833,Dziire Service Apartment,9.5,2428.0,Hyderabad,12138.0,Excellent,telangana,2428.0,nan
+835,Hotel Atlas Stays Kukatpally Hyderabad,8.6,2758.0,Hyderabad,13789.0,Very Good,telangana,1875.0,nan
+836,Itsy By Treebo - Aflah,7.5,1469.0,Hyderabad,7344.0,Good,telangana,1469.0,nan
+837,Hotel Grand Himayat,7.8,2695.0,Hyderabad,13473.0,Good,telangana,3254.0,nan
+838,Townhouse RCC Majestic LB Nagar,8.6,2350.0,Hyderabad,11751.0,Very Good,telangana,2350.0,nan
+839,Treebo Trend Srico,7.8,2223.0,Hyderabad,11114.0,Good,telangana,1905.0,nan
+840,Capital O Qualia Gachibowli,7.8,2142.0,Mahbubnagar,10712.0,Good,telangana,1848.0,nan
+841,Townhouse De Alphabet Hotel Kukatpally Nexus Mall,8.2,2379.0,Mahbubnagar,11893.0,Very good,telangana,2379.0,nan
+842,Radhe Suites,8.8,3064.0,Hyderabad,15322.0,Excellent,telangana,2264.0,nan
+843,sucasa homes (home away from home guest services pvt ltd),8.6,2016.0,Hyderabad,10080.0,Very Good,telangana,2016.0,nan
+844,Treebo Trend Destination Inn,7.9,2314.0,Hyderabad,11571.0,Good,telangana,3254.0,nan
+845,Townhouse 1202 White Ridge KPHB OPP JNTU,8.3,2043.0,Hyderabad,10214.0,Very good,telangana,2043.0,nan
+846,HOTEl EUPHORIA AIRPORT Zone,7.8,2645.0,Hyderabad,13226.0,Good,telangana,3254.0,nan
+847,OYO Raghava Guest House,8.6,1704.0,Hyderabad,8521.0,Very Good,telangana,1704.0,nan
+848,Hotel Saraswathi Residency Near SR Nagar Metro Station,8.6,2181.0,Hyderabad,10905.0,Very Good,telangana,2181.0,nan
+849,Bigson Blissful Studios,7.9,2245.0,Mahbubnagar,11223.0,Good,telangana,3254.0,nan
+850,FabHotel Direct CheckIn,8.6,2179.0,Hyderabad,10894.0,Very Good,telangana,2179.0,nan
+851,Hotel Stay Inn,7.6,2576.0,Hyderabad,12880.0,Good,telangana,2273.0,nan
+852,Mee Homes: New Spacious 2 Bhk In Madhapur,9.7,3942.0,Hyderabad,19712.0,Excellent,telangana,3254.0,nan
+853,THE SUPERB HOTEL PVT LTD,8.6,2841.0,Hyderabad,14204.0,Very Good,telangana,5264.0,nan
+854,Hotel Sitara Grand Miyapur,8.0,3232.0,Hyderabad,17420.0,Very good,telangana,3718.0,nan
+855,Hotel RK Residency,8.6,1562.0,Hyderabad,7812.0,Very Good,telangana,3254.0,nan
+856,OYO 35467 Shiridi Residency,8.6,2315.0,Hyderabad,11573.0,Very Good,telangana,3254.0,nan
+857,Capital O 14244 Loya Legend,8.6,2364.0,Hyderabad,11819.0,Very Good,telangana,3254.0,nan
+858,Urvasi Hotel,7.7,4220.0,Hyderabad,21102.0,Good,telangana,3254.0,nan
+859,Royal Reves,8.0,5406.0,Hyderabad,27030.0,Very good,telangana,3254.0,nan
+860,Capital O 9960 Kubeera Palace,8.5,2695.0,Hyderabad,13473.0,Excellent,telangana,3254.0,nan
+861,Hotel Lotus Grand,8.6,2218.0,Hyderabad,11089.0,Very Good,telangana,3254.0,nan
+862,Voila @ Nest,9.0,1909.0,Hyderabad,9545.0,Excellent,telangana,3254.0,nan
+863,Fabhotel Double Tree,8.6,2336.0,Hyderabad,11681.0,Very Good,telangana,3235.0,nan
+864,Hotel My Choice,8.6,1277.0,Hyderabad,6386.0,Very Good,telangana,3254.0,nan
+865,Kinara Grand - AS Rao Nagar,7.7,2815.0,Hyderabad,14075.0,Good,telangana,3254.0,nan
+866,OYO Apartments Begumpet,8.6,1512.0,Hyderabad,7559.0,Very Good,telangana,3254.0,nan
+867,Riya Grand,8.6,2030.0,Hyderabad,10148.0,Very Good,telangana,3254.0,nan
+868,Olive Serviced Apartments - Hicc Hyderabad,9.8,2312.0,Mahbubnagar,11560.0,Excellent,telangana,3254.0,nan
+869,Trance Babylon Executive Stays,8.6,2395.0,Hyderabad,11973.0,Excellent,telangana,2984.0,nan
+870,SuLa Stays,9.2,3014.0,Hyderabad,15070.0,Excellent,telangana,3254.0,nan
+871,OYO 16012 Hotel Rainbow International,7.6,2063.0,Hyderabad,10316.0,Good,telangana,3254.0,nan
+872,FabHotel Tourist Plaza Kachiguda Railway Station,8.5,2439.0,Hyderabad,12193.0,Excellent,telangana,3254.0,nan
+873,"Collection O Hotel Regal Near Iskon Temple , Abids",8.6,2302.0,Hyderabad,11509.0,Very Good,telangana,3254.0,nan
+874,Hotel Maruthi Inn,8.2,2282.0,Adilabad,11410.0,Very good,telangana,3254.0,nan
+875,Cosy Banjara Guest House,7.7,1960.0,Hyderabad,9800.0,Good,telangana,1960.0,nan
+876,Hotel The Stem,8.3,2099.0,Hyderabad,10495.0,Very good,telangana,3254.0,nan
+877,Arunoday,8.6,1606.0,Hyderabad,8029.0,Very Good,telangana,3254.0,nan
+878,Oyo 36953 Townhouse Oyo Townhouse,8.6,1718.0,Hyderabad,8588.0,Very Good,telangana,3254.0,nan
+879,Citadel Hotel By Vinnca,8.6,3452.0,Hyderabad,17420.0,Very Good,telangana,5360.0,nan
+880,FabHotel Limestone Aura Somajiguda,7.7,2595.0,Hyderabad,12977.0,Good,telangana,3254.0,nan
+881,Reva Guest House Jubilee Hills,7.5,2167.0,Hyderabad,10835.0,Good,telangana,3254.0,nan
+882,The Platinum,7.8,2653.0,Hyderabad,13265.0,Good,telangana,3254.0,nan
+883,Hotel Budget,8.1,2428.0,Khammam,12138.0,Very good,telangana,3254.0,nan
+884,Hotel Sitara Grand Banjara Hills,7.8,3333.0,Hyderabad,16666.0,Good,telangana,3254.0,nan
+885,Hill View Guest House Hi Tech City,7.6,2352.0,Hyderabad,11760.0,Good,telangana,3254.0,nan
+886,Dwaraka In Habsiguda,8.6,2553.0,Hyderabad,12766.0,Very Good,telangana,3254.0,nan
+887,K Loft Hotel,9.4,2799.0,Karimnagar,13994.0,Excellent,telangana,3254.0,nan
+888,OYO Dziire,8.6,3226.0,Hyderabad,16128.0,Very Good,telangana,3226.0,nan
+889,"Yendluris- Queenbed Room-24 Kondapur, Gachibowli",8.5,1791.0,Mahbubnagar,8954.0,Excellent,telangana,3254.0,nan
+890,"Yendluris- Queenbed Room-21 Kondapur, Gachibowli",8.5,1791.0,Mahbubnagar,8954.0,Very Good,telangana,3254.0,nan
+891,Embassy Suites Hyderabad,7.5,2497.0,Secunderabad,12486.0,Excellent,telangana,2520.0,nan
+892,Dwaraka Heaven Luxury rooms,8.5,1904.0,Mahbubnagar,9520.0,Very Good,telangana,1411.0,nan
+893,The Retreat 1bhk In Kondapur,8.5,2240.0,Mahbubnagar,11200.0,Very Good,telangana,3254.0,nan
+894,"Yendluris -studio Flat 1bhk -kondapur, Gachibowli",8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+895,Srinivasam-studioflat-4-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+896,Srinivasam-studioflat-1-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+897,Srinivasam-studioflat-7-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+898,Srinivasam-studioflat-8-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+899,Serenity 1,9.5,2576.0,Mahbubnagar,12880.0,Excellent,telangana,2576.0,nan
+900,Wandr Azura,8.5,1017.0,Mahbubnagar,5084.0,Very Good,telangana,1316.0,nan
+901,2bhk Ac Hitech City Comfortable Affordable,9.0,2318.0,Mahbubnagar,11592.0,Excellent,telangana,3254.0,nan
+902,FabHotel Prime Prowell Apex,8.5,3278.0,Mahbubnagar,16392.0,Very Good,telangana,3017.0,nan
+903,Hivee-1 Rooms & Living Ac,8.6,2016.0,Hyderabad,10080.0,Very Good,telangana,3254.0,nan
+904,Dar E Noor,8.6,2379.0,Hyderabad,11894.0,Excellent,telangana,3254.0,nan
+905,Dpinn Homestay,8.5,2520.0,Mahbubnagar,12600.0,Very Good,telangana,3254.0,nan
+906,"8.midtown-1bhk, Hitech City(prepaid Homes)",8.5,2520.0,Mahbubnagar,12600.0,Excellent,telangana,3254.0,nan
+907,Srinivasam-studioflat-12-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Excellent,telangana,3254.0,nan
+908,Parkview Escape 1bhk Penthouse In Kondapur,8.5,2800.0,Mahbubnagar,14000.0,Excellent,telangana,3254.0,nan
+909,Srinivasam-studioflat-5-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+910,Srinivasam-studioflat-16-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+911,Srinivasam-studioflat11-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+912,Srinivasam-studioflat-9-kondapur,8.5,2519.0,Mahbubnagar,12596.0,Very Good,telangana,3254.0,nan
+913,Just Launched Cute Studio 2 Bhk Flats In Kondapur Near Botanical Garden & Sarath City Capital Mall,8.5,2833.0,Mahbubnagar,14167.0,Very Good,telangana,3254.0,nan
+914,Stayrich Botanical Garden,8.5,2912.0,Mahbubnagar,14560.0,Excellent,telangana,2912.0,nan
+915,Capital O Hotel Samrat Palace Near Nampally Station,8.6,1144.0,Hyderabad,5722.0,Very Good,telangana,1144.0,nan
+916,Lemonridge Hotels IDPL Balanagar,8.5,2275.0,Mahbubnagar,11377.0,Very Good,telangana,2516.0,nan
+917,Ira Bigson Apart Hotel,8.5,3920.0,Mahbubnagar,19600.0,Very Good,telangana,3254.0,nan
+918,Hotel O M&N Grand,8.6,1689.0,Hyderabad,8447.0,Very Good,telangana,1689.0,nan
+919,Comfort Cove - 2bhk,8.5,2804.0,Mahbubnagar,14018.0,Very Good,telangana,3254.0,nan
+920,"Yendluris - Studio Flat-5 Kondapur, Gachibowli",8.5,2821.0,Mahbubnagar,14107.0,Very Good,telangana,3254.0,nan
+921,"Yendluris - Studio Flat-3 Kondapur, Gachibowli",8.5,2821.0,Mahbubnagar,14107.0,Very Good,telangana,3254.0,nan
+922,"Yendluris - Studio Flat-4 Kondapur, Gachibowli",8.5,2821.0,Mahbubnagar,14107.0,Very Good,telangana,3254.0,nan
+923,"Chirackal House,the Luxurious Villa By Homstel",9.3,9130.0,Thiruvananthapuram,45652.0,Excellent,Kerala,5313.0,Rainy
+924,Kochi Marriott Hotel,9.2,18974.0,Kochi,94872.0,Excellent,Kerala,5313.0,Rainy
+925,Entire 3 Bhk Villa-lakeview- Pool-airfresh Villas,9.5,12021.0,Wayanad,60107.0,Excellent,Kerala,5313.0,Rainy
+926,"The Artiste Kochi, a Tribute Portfolio Hotel",9.1,16756.0,Kochi,79591.0,Excellent,Kerala,5313.0,Rainy
+927,Iris Highes Premium Villa,9.5,7315.0,Wayanad,36574.0,Excellent,Kerala,5313.0,Rainy
+928,Four Points by Sheraton Kochi Infopark,8.8,8289.0,Kochi,41447.0,Excellent,Kerala,5313.0,Rainy
+929,Homely 3bhk For Families,9.6,6936.0,Munnar,34682.0,Excellent,Kerala,5313.0,Rainy
+930,Radisson Blu Kochi,8.2,10288.0,Kochi,51442.0,Very good,Kerala,5313.0,Rainy
+931,Modern Nest,9.3,2522.0,Thiruvananthapuram,12612.0,Excellent,Kerala,5313.0,Rainy
+932,Hyatt Regency Thrissur,9.2,8014.0,Thrissur,40068.0,Excellent,Kerala,5313.0,Rainy
+933,Ramada by Wyndham Alleppey,8.1,14750.0,Alappuzha,73750.0,Very good,Kerala,5313.0,Rainy
+934,Le Méridien Kochi,8.8,66097.0,Kochi,313959.0,Excellent,Kerala,5313.0,Rainy
+935,Park Inn & Suites by Radisson Thrissur East Fort,8.4,4379.0,Thrissur,21896.0,Excellent,Kerala,5313.0,Rainy
+936,Grand Hyatt Kochi Bolgatty,9.4,103233.0,Kochi,516167.0,Excellent,Kerala,5313.0,Rainy
+937,MARHABA PALACE,8.1,1848.0,Kozhikode,9242.0,Excellent,Kerala,5313.0,Rainy
+938,Hotel Edassery Mansion,8.0,2106.0,Kochi,10528.0,Very good,Kerala,2106.0,Rainy
+939,Hotel Grand Alleppey,8.6,3024.0,Alappuzha,15120.0,Excellent,Kerala,2231.0,Rainy
+940,Amala Arcade AC Rooms,8.4,2207.0,Thrissur,11034.0,Very good,Kerala,5313.0,Rainy
+941,A V Residency,8.5,1755.0,Kochi,8775.0,Very Good,Kerala,1249.0,Rainy
+942,Hotel Aida,8.1,3360.0,Kottayam,16800.0,Very good,Kerala,5313.0,Rainy
+943,Nexstay Asma Tower,7.6,2973.0,Kozhikode,14863.0,Good,Kerala,2743.0,Rainy
+944,SAAS Residency,7.7,2051.0,Kozhikode,10255.0,Good,Kerala,2051.0,Rainy
+945,Burooj Hotel,8.0,2318.0,Kochi,11592.0,Very good,Kerala,1978.0,Rainy
+946,Shalimar Residency,8.5,2250.0,Kochi,11250.0,Very Good,Kerala,2105.0,Rainy
+947,Green Palace,8.4,2744.0,Vagamon,13720.0,Excellent,Kerala,5313.0,Rainy
+948,Aryavilla Heritage,8.8,2464.0,Varkala,12320.0,Excellent,Kerala,1892.0,Rainy
+949,Treebo Trend Regalia Inn Civil Station,8.8,1897.0,Wayanad,9484.0,Very Good,Kerala,5313.0,Rainy
+950,Treebo Trend Majestic Retreat,8.1,2203.0,Varkala,11013.0,Very good,Kerala,2203.0,Rainy
+951,Fortkochi Beach Inn,8.3,2127.0,Kochi,10634.0,Very good,Kerala,1667.0,Rainy
+952,Park Residency Puthuppally,8.9,2464.0,Kottayam,12320.0,Excellent,Kerala,5313.0,Rainy
+953,Transit Suites By Grandwest,7.7,2714.0,Aluva,13569.0,Good,Kerala,2714.0,Rainy
+954,Le Villagio Resort & Domes,8.5,3861.0,Wayanad,19307.0,Excellent,Kerala,2960.0,Rainy
+955,Hotel Signature Cochin,8.9,2155.0,Kochi,10775.0,Excellent,Kerala,2155.0,Rainy
+956,Geetha Govindham,7.6,2688.0,Guruvayoor,13440.0,Good,Kerala,3931.0,Rainy
+957,Kenz Residency,8.2,1680.0,Kochi,8400.0,Very good,Kerala,1309.0,Rainy
+958,Amritham Holidays Homestay Trivandrum,9.4,3046.0,Thiruvananthapuram,15232.0,Excellent,Kerala,2615.0,Rainy
+959,Chilanka Lake Side Resort,8.1,2778.0,Alappuzha,13888.0,Very good,Kerala,5313.0,Rainy
+960,Hydel Palace Hotel & Resorts By Bestinn Leisure Athirappally,8.7,2974.0,Athirappally,14869.0,Excellent,Kerala,2444.0,Rainy
+961,Broad Bean Cochin,8.1,3198.0,Kochi,15990.0,Very good,Kerala,2712.0,Rainy
+962,Gokulam Park Guruvayur,9.5,4000.0,Guruvayoor,19998.0,Excellent,Kerala,4000.0,Rainy
+963,Safire Residency,7.9,2112.0,Thiruvananthapuram,10559.0,Good,Kerala,1901.0,Rainy
+964,Nambiars Premium Heritage Hotel,8.5,1960.0,Kochi,9800.0,Very Good,Kerala,1960.0,Rainy
+965,Hotel Neptune Kovalam,8.1,1792.0,Kovalam,8960.0,Very good,Kerala,1460.0,Rainy
+966,Maharani Hotel,8.2,3920.0,Kozhikode,19600.0,Very good,Kerala,3892.0,Rainy
+967,Western Ghats Holiday Home,8.9,2687.0,Wayanad,13436.0,Excellent,Kerala,2319.0,Rainy
+968,Spice Grove,8.3,3034.0,Thekkady,15170.0,Very good,Kerala,2635.0,Rainy
+969,The Windsor Castle,7.9,3808.0,Kottayam,19040.0,Good,Kerala,3808.0,Rainy
+970,Venice Iva Residency,9.2,2352.0,Alappuzha,11760.0,Excellent,Kerala,1662.0,Rainy
+971,Treebo Trend Kumily Gate Thekkady,7.6,2602.0,Thekkady,13008.0,Good,Kerala,1895.0,Rainy
+972,Mscb guest house,8.6,2289.0,Munnar,11443.0,Very Good,Kerala,3923.0,Rainy
+973,Vakkom Palazzo,7.8,4232.0,Varkala,21159.0,Good,Kerala,5313.0,Rainy
+974,Banasura Hill Resort,8.7,5990.0,Wayanad,29950.0,Excellent,Kerala,5313.0,Rainy
+975,At Wood Munnar,8.0,2579.0,Munnar,12895.0,Very good,Kerala,5313.0,Rainy
+976,Hotel Vivanta by Taj Trivandrum,8.9,7504.0,Thiruvananthapuram,37520.0,Excellent,Kerala,9273.0,Rainy
+977,Puthooram Seaview Cliff Resort,7.7,2745.0,Varkala,13727.0,Good,Kerala,5313.0,Rainy
+978,Ideal Ayurvedic Resort Kovalam,8.0,2464.0,Thiruvananthapuram,12320.0,Very good,Kerala,1568.0,Rainy
+979,Palmgrove Lake Resort,8.3,4763.0,Alappuzha,23813.0,Very good,Kerala,4892.0,Rainy
+980,Bellwether,7.8,956.0,Kochi,4782.0,Good,Kerala,2250.0,Rainy
+981,Malabar Residency,7.6,3105.0,Kannur,15526.0,Excellent,Kerala,4256.0,Rainy
+982,Roses Inn Fortkochi,7.5,2189.0,Kochi,10947.0,Good,Kerala,3360.0,Rainy
+983,Wild Saga Thekkady,8.6,1911.0,Thekkady,9555.0,Excellent,Kerala,1483.0,Rainy
+984,Baywatch Beach Resort,7.5,1800.0,Alappuzha,9000.0,Good,Kerala,2016.0,Rainy
+985,Isola Di Cocco Ayurvedic Beach Resort,7.6,17253.0,Poovar Island,86265.0,Good,Kerala,12348.0,Rainy
+986,Voyage Club 7,7.7,2362.0,Tiruvalla,11808.0,Good,Kerala,5313.0,Rainy
+987,The Ruby Arena,7.9,2756.0,Thiruvananthapuram,13781.0,Good,Kerala,2624.0,Rainy
+988,Gokulam Park Munnar,8.7,4833.0,Munnar,24164.0,Excellent,Kerala,4906.0,Rainy
+989,Holiday Heaven Munnar,8.1,3579.0,Munnar,17895.0,Very good,Kerala,3999.0,Rainy
+990,Earth Lounge Resort,8.6,2813.0,Vagamon,14065.0,Excellent,Kerala,2184.0,Rainy
+991,Gokulam Grand Trivandrum,9.1,4759.0,Thiruvananthapuram,23796.0,Excellent,Kerala,7680.0,Rainy
+992,The Garuda,7.8,9043.0,Thrissur,45216.0,Good,Kerala,4867.0,Rainy
+993,Adrak Summer Sand Hill Resort Vagamon,8.0,5493.0,Vagamon,27466.0,Very good,Kerala,5313.0,Rainy
+994,Poetree Thekkady,9.3,6814.0,Thekkady,34072.0,Excellent,Kerala,8316.0,Rainy
+995,Hotel Indraprastha,7.9,1497.0,Palakkad,29485.0,Excellent,Kerala,1714.0,Rainy
+996,Munroe Paradise,8.7,2046.0,Kollam,10228.0,Excellent,Kerala,5313.0,Rainy
+997,Amritara A Beach Symphony,8.1,8097.0,Alappuzha,40485.0,Very good,Kerala,12813.0,Rainy
+998,Chrysoberyl And Convention Centre,8.0,3100.0,Kottayam,15499.0,Very good,Kerala,5042.0,Rainy
+999,Dream Catcher Home Stay,8.8,2032.0,Kochi,10162.0,Excellent,Kerala,2121.0,Rainy
+1000,SS KKP Tourist Home,8.7,750.0,Thiruvananthapuram,3749.0,Very Good,Kerala,5313.0,Rainy
+1001,Copper Folia,8.2,4236.0,Kozhikode,29485.0,Very good,Kerala,5330.0,Rainy
+1002,Abad Harmonia Ayurvedic Beach Resort,8.2,4565.0,Thiruvananthapuram,22826.0,Very good,Kerala,3853.0,Rainy
+1003,Vasco Da Gama Beach Resort,7.5,3279.0,Kozhikode,16396.0,Good,Kerala,5313.0,Rainy
+1004,Deshadan Backwater Resort,8.2,4567.0,Alappuzha,22836.0,Very good,Kerala,6656.0,Rainy
+1005,Varkala Marine Palace,8.6,2962.0,Varkala,14808.0,Excellent,Kerala,3136.0,Rainy
+1006,Nila Palace,8.7,3222.0,Kollam,16110.0,Very Good,Kerala,4501.0,Rainy
+1007,Time Square Boutique Hotel & Spa,8.3,2022.0,Alappuzha,10110.0,Very good,Kerala,3068.0,Rainy
+1008,HOTEL LETS STAY,8.6,1480.0,Kochi,29485.0,Excellent,Kerala,2016.0,Rainy
+1009,Poopada,8.6,1757.0,Munnar,29485.0,Very Good,Kerala,2589.0,Rainy
+1010,Boon Inn,8.1,3261.0,Palakkad,16306.0,Very good,Kerala,2534.0,Rainy
+1011,Sunbird Garden Resort,7.7,3328.0,Wayanad,16638.0,Good,Kerala,5313.0,Rainy
+1012,Itsy By Treebo - The Waters Edge Beach Resort,8.4,2435.0,Kovalam,12177.0,Very good,Kerala,2392.0,Rainy
+1013,Prayana,8.7,1704.0,Kochi,8521.0,Excellent,Kerala,3112.0,Rainy
+1014,Dew Drops Farm Resorts,9.0,3424.0,Munnar,17119.0,Excellent,Kerala,3210.0,Rainy
+1015,Backwater Ripples Kumarakom,8.9,10300.0,Kottayam,51499.0,Excellent,Kerala,15971.0,Rainy
+1016,Wild Elephant,8.3,2430.0,Munnar,29485.0,Very good,Kerala,3053.0,Rainy
+1017,Nihara Resort and Spa Cochin,8.8,8598.0,Kochi,42989.0,Excellent,Kerala,12409.0,Rainy
+1018,Hotel Brahmaputhra,7.8,2836.0,Guruvayoor,14180.0,Good,Kerala,5313.0,Rainy
+1019,The Senate,8.0,1814.0,Kochi,29485.0,Very good,Kerala,5313.0,Rainy
+1020,Treebo Trend Anchor Inn,8.7,2394.0,Kochi,11972.0,Excellent,Kerala,2376.0,Rainy
+1021,Spice Jungle Resort,8.2,2360.0,Munnar,11800.0,Very good,Kerala,5313.0,Rainy
+1023,MGS Residency,8.6,1679.0,Munnar,8394.0,Very Good,Kerala,1342.0,Rainy
+1024,Green View Executive Stay's,8.1,2420.0,Kochi,12098.0,Very good,Kerala,1828.0,Rainy
+1025,Uday Backwater Resort,9.3,9494.0,Alappuzha,47471.0,Excellent,Kerala,16708.0,Rainy
+1026,Hotel Tigers Roare Thekkady,7.8,3217.0,Thekkady,16084.0,Good,Kerala,4301.0,Rainy
+1027,Royal Residency,7.6,1476.0,Kochi,29485.0,Good,Kerala,2352.0,Rainy
+1028,Hotel Great Jubliee,8.3,3082.0,Wayanad,15412.0,Very good,Kerala,3375.0,Rainy
+1029,Niko Hotels,8.8,3505.0,Kochi,17527.0,Excellent,Kerala,3087.0,Rainy
+1030,Polariz,7.6,2812.0,Kannur,14059.0,Good,Kerala,1967.0,Rainy
+1031,Hotel Hilite Inn,8.5,1579.0,Kochi,29485.0,Excellent,Kerala,2531.0,Rainy
+1032,Itsy By Treebo - Sapphire Residency,9.3,1546.0,Malappuram,7730.0,Excellent,Kerala,1533.0,Rainy
+1033,Hotel Mayo,8.0,1430.0,Wayanad,29485.0,Very good,Kerala,1792.0,Rainy
+1034,Planet Green Plantation Resorts,8.8,5939.0,Wayanad,29695.0,Very Good,Kerala,4188.0,Rainy
+1035,Belle Bonami Resort,8.5,2423.0,Vagamon,29485.0,Excellent,Kerala,3439.0,Rainy
+1036,Elephant Route,8.2,3748.0,Thekkady,18741.0,Very good,Kerala,3362.0,Rainy
+1037,Hotel Blue Bell,8.0,1730.0,Kozhikode,8649.0,Very good,Kerala,2891.0,Rainy
+1038,FabHotel Wateredge Beach Resort,7.8,3027.0,Thiruvananthapuram,15137.0,Good,Kerala,2655.0,Rainy
+1039,"The Raviz Kadavu, Kozhikode",8.5,13650.0,Kozhikode,68248.0,Excellent,Kerala,18756.0,Rainy
+1040,Vasudevam Premium Suites,9.2,3640.0,Thiruvananthapuram,18202.0,Excellent,Kerala,4257.0,Rainy
+1041,Marari Beach Resort,9.2,10658.0,Mararikulam,53289.0,Excellent,Kerala,14524.0,Rainy
+1042,SS Beach Resort,8.3,3874.0,Varkala,19369.0,Excellent,Kerala,3365.0,Rainy
+1043,Hotel Excellency,8.5,1326.0,Kochi,29485.0,Very Good,Kerala,2143.0,Rainy
+1044,Pine Tree Munnar,8.4,1433.0,Munnar,7166.0,Very good,Kerala,2128.0,Rainy
+1045,AMARA AYURVEDA RETREAT- Overlooking Evergreen Western Ghats an ecologically sustainable living space in Kovalam,8.9,5530.0,Thiruvananthapuram,27650.0,Excellent,Kerala,5600.0,Rainy
+1046,The Crescent Suites,8.4,2022.0,Kochi,10109.0,Very good,Kerala,2580.0,Rainy
+1047,Hotel Malika Residency,8.4,2318.0,Kottayam,11592.0,Excellent,Kerala,1801.0,Rainy
+1048,Sadhoo Inn,7.6,2397.0,Kannur,11987.0,Excellent,Kerala,5313.0,Rainy
+1049,Century Grand Hotel,7.9,1430.0,Mananthavady,7152.0,Good,Kerala,1798.0,Rainy
+1050,The Avenue Center Hotel,8.0,5331.0,Kochi,26656.0,Very good,Kerala,6272.0,Rainy
+1051,Wayanad Silver Woods,8.1,9589.0,Wayanad,47944.0,Very good,Kerala,7825.0,Rainy
+1052,Vmj.dwellings,7.5,3380.0,Munnar,16902.0,Good,Kerala,5313.0,Rainy
+1053,Rainforest Munnar,9.0,3507.0,Munnar,17534.0,Excellent,Kerala,5313.0,Rainy
+1054,Arayal Resort-A Unit of Sharoy Resort,9.5,12869.0,Wayanad,64344.0,Excellent,Kerala,5313.0,Rainy
+1055,Malabar Ocean Front Resort & Spa,8.5,13448.0,Nileshwar,67239.0,Excellent,Kerala,14538.0,Rainy
+1056,Hotel KPM Tripenta,7.7,4239.0,Palakkad,21196.0,Good,Kerala,4480.0,Rainy
+1057,OYO 22718 Vm Qazr,8.7,1542.0,Kochi,7711.0,Excellent,Kerala,5313.0,Rainy
+1058,KPM TRIPENTA HOTEL,8.4,7838.0,Kozhikode,39189.0,Very good,Kerala,7838.0,Rainy
+1059,Le Candles,8.5,4826.0,Kozhikode,24131.0,Excellent,Kerala,6104.0,Rainy
+1060,F Square,8.5,1663.0,Kochi,8316.0,Excellent,Kerala,2710.0,Rainy
+1061,Super Collection O Malabar Illam,8.5,2361.0,Kochi,11806.0,Very Good,Kerala,2361.0,Rainy
+1062,Treebo Trend Petals Suites,9.2,2063.0,Kochi,10314.0,Excellent,Kerala,5313.0,Rainy
+1063,Garuda Suites,8.6,2092.0,Varkala,10462.0,Excellent,Kerala,3360.0,Rainy
+1064,The Leaf Munnar,9.4,6126.0,Munnar,29485.0,Excellent,Kerala,7064.0,Rainy
+1065,paulson park hotel,8.5,1585.0,Kochi,29485.0,Very Good,Kerala,2230.0,Rainy
+1066,VEETEE MID TOWN,8.3,2728.0,Munnar,29485.0,Very good,Kerala,5313.0,Rainy
+1067,Sky Residency Lodge,8.1,1397.0,Thrissur,6987.0,Very good,Kerala,1792.0,Rainy
+1068,Kurinji Wanderlust Resort Munnar,8.5,2404.0,Munnar,12018.0,Excellent,Kerala,2404.0,Rainy
+1069,Sun Tara Beach Resort,7.5,3013.0,Kovalam,15067.0,Good,Kerala,1846.0,Rainy
+1070,"The Artiste Kochi, a Tribute Portfolio Hotel",9.1,16756.0,Kochi,79591.0,Excellent,Kerala,5313.0,Rainy
+1071,SPOT ON Rohini Inn Kadampuzha,9.3,1068.0,Malappuram,5341.0,Very Good,Kerala,927.0,Rainy
+1072,Eterno Camellia and Elettaria,8.8,5111.0,Munnar,25553.0,Excellent,Kerala,6878.0,Rainy
+1073,Hotel Rvee's Regency,9.2,1640.0,Guruvayoor,8199.0,Excellent,Kerala,5313.0,Rainy
+1074,Abad,8.2,3046.0,Kochi,15228.0,Very good,Kerala,3100.0,Rainy
+1075,Ocean Bay Ayurvedic Beach Resort,8.3,2383.0,Kovalam,11917.0,Very good,Kerala,2509.0,Rainy
+1076,Lotus Grand Residency,9.3,1483.0,Malappuram,7417.0,Very Good,Kerala,5313.0,Rainy
+1077,Boat Residency,8.5,2654.0,Kochi,13269.0,Very Good,Kerala,5313.0,Rainy
+1078,Hotel O Kazhakootam Near Technopark Campus,8.7,1932.0,Thiruvananthapuram,9662.0,Very Good,Kerala,5313.0,Rainy
+1079,Collection O Valiyavila Junction Near Poojapura,8.7,1319.0,Thiruvananthapuram,6593.0,Very Good,Kerala,1083.0,Rainy
+1080,"Treebo Trend Seagate Edapally, Kochi",8.5,2064.0,Kochi,10319.0,Very Good,Kerala,5313.0,Rainy
+1081,Moriah inn pala,8.4,1456.0,Kottayam,7280.0,Excellent,Kerala,1456.0,Rainy
+1082,Super Hotel O Vennala Near Palarivattom,8.5,1389.0,Kochi,6945.0,Very Good,Kerala,1389.0,Rainy
+1083,D-Green Hotels,8.5,1568.0,Kochi,7840.0,Very Good,Kerala,1568.0,Rainy
+1084,June Boutique Villa,8.6,2249.0,Munnar,11244.0,Very Good,Kerala,5313.0,Rainy
+1085,Grand Residency And Resort,8.3,1653.0,Varkala,8267.0,Excellent,Kerala,5313.0,Rainy
+1086,Town Hub,9.3,2000.0,Malappuram,10000.0,Very Good,Kerala,2000.0,Rainy
+1087,Super OYO Flagship Versatile Inn,8.5,1499.0,Kochi,7496.0,Very Good,Kerala,1499.0,Rainy
+1088,Secret Valley Plantation Resort,8.6,3505.0,Munnar,17523.0,Very Good,Kerala,5313.0,Rainy
+1089,Sulthan Deluxe Room Gv07306,8.5,2725.0,Kochi,13625.0,Very Good,Kerala,2725.0,Rainy
+1090,Hotel Samrat,7.6,2688.0,Kannur,13440.0,Excellent,Kerala,2688.0,Rainy
+1091,Ac Arcade,7.9,1968.0,Palakkad,9841.0,Excellent,Kerala,5313.0,Rainy
+1092,Hotel Priya,9.3,3763.0,Malappuram,18816.0,Very Good,Kerala,3763.0,Rainy
+1093,Hotel Seashell,8.5,3680.0,Kochi,18398.0,Very Good,Kerala,5313.0,Rainy
+1094,Stayonhotels,7.9,2822.0,Palakkad,14112.0,Excellent,Kerala,5313.0,Rainy
+1095,The Patio Thekkady,8.4,2011.0,Thekkady,10057.0,Excellent,Kerala,3640.0,Rainy
+1097,Sreeja Myst Athirappilly,8.7,3360.0,Athirappally,16800.0,Very Good,Kerala,5313.0,Rainy
+1099,Rainforest Resort,8.7,33078.0,Athirappally,165389.0,Excellent,Kerala,56121.0,Rainy
+1100,"Greenwoods Resort, Thekkady",9.3,21154.0,Thekkady,105768.0,Excellent,Kerala,19287.0,Rainy
+1101,Mount Xanadu Resorts,9.6,24001.0,Wayanad,120004.0,Excellent,Kerala,18344.0,Rainy
+1102,Ambady Estate,8.9,34702.0,Munnar,173508.0,Excellent,Kerala,40474.0,Rainy
+1103,Kumarakom Lake Resort,9.2,31525.0,Kumarakom,29485.0,Excellent,Kerala,5313.0,Rainy
+1104,MOUNTAIN SHADOWS RESORTS,9.4,38112.0,Wayanad,190560.0,Excellent,Kerala,21760.0,Rainy
+1105,"Nextel Inn, Calicut",8.1,3762.0,Kozhikode,18808.0,Excellent,Kerala,5711.0,Rainy
+1106,"The Postcard Mandalay Hall, Kochi",8.5,25956.0,Kochi,129782.0,Very Good,Kerala,30557.0,Rainy
+1107,Rockholm at the Light House Beach,9.4,28387.0,Kovalam,141936.0,Excellent,Kerala,27852.0,Rainy
+1108,Sukriti beach Resort,8.3,2464.0,Varkala,12321.0,Excellent,Kerala,2464.0,Rainy
+1109,Italia Tourist Home,8.4,1225.0,Thekkady,6125.0,Excellent,Kerala,5313.0,Rainy
